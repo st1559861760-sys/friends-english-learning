@@ -1,0 +1,1106 @@
+{
+  "S01E08": {
+    "title": "The One Where Nana Dies Twice",
+    "zh_title": "外婆去世了两次",
+    "words": [
+      {
+        "text": "gorgeous",
+        "meaning": "漂亮的，英俊的",
+        "original": "Hey gorgeous , how's it going?",
+        "scene": "钱德勒在咖啡馆遇到同事雪莉，对方打招呼",
+        "example": "You look gorgeous in that dress.",
+        "id": "S01E08_W001",
+        "type": "word"
+      },
+      {
+        "text": "ridiculous",
+        "meaning": "荒谬的，可笑的",
+        "original": "I mean, is that ridiculous?",
+        "scene": "钱德勒对雪莉误会自己是同性恋感到荒谬",
+        "example": "That's a ridiculous idea.",
+        "id": "S01E08_W002",
+        "type": "word"
+      },
+      {
+        "text": "date",
+        "meaning": "约会",
+        "original": "Do you want a date Saturday?",
+        "scene": "雪莉想给钱德勒介绍约会对象",
+        "example": "I'm going on a date tonight.",
+        "id": "S01E08_W003",
+        "type": "word"
+      },
+      {
+        "text": "perfect",
+        "meaning": "完美的，理想的",
+        "original": "I met somebody who would be perfect for you.",
+        "scene": "雪莉说对方和钱德勒很配",
+        "example": "This job is perfect for me.",
+        "id": "S01E08_W004",
+        "type": "word"
+      },
+      {
+        "text": "fascinating",
+        "meaning": "极有吸引力的，迷人的",
+        "original": "Well, this is fascinating.",
+        "scene": "钱德勒听说大家曾以为他是同性恋",
+        "example": "The lecture was absolutely fascinating.",
+        "id": "S01E08_W005",
+        "type": "word"
+      },
+      {
+        "text": "vague",
+        "meaning": "含糊的，不明确的",
+        "original": "I was worried you guys were gonna be vague about this.",
+        "scene": "钱德勒讽刺大家只说他有“气质”",
+        "example": "Her answer was vague and confusing.",
+        "id": "S01E08_W006",
+        "type": "word"
+      },
+      {
+        "text": "quality",
+        "meaning": "特质，气质",
+        "original": "You just have a quality.",
+        "scene": "大家解释为什么觉得钱德勒像同性恋",
+        "example": "She has a quality that makes people trust her.",
+        "id": "S01E08_W007",
+        "type": "word"
+      },
+      {
+        "text": "threatening",
+        "meaning": "有威胁的",
+        "original": "Women find you less threatening, they let their guards down...",
+        "scene": "菲比分析为什么女人会对钱德勒卸下防备",
+        "example": "The big dog looked threatening.",
+        "id": "S01E08_W008",
+        "type": "word"
+      },
+      {
+        "text": "apparently",
+        "meaning": "显然，据说",
+        "original": "Believe me, apparently other people have made the same mistake.",
+        "scene": "钱德勒得知 Lowell 也曾误会",
+        "example": "Apparently, she's moving to Paris.",
+        "id": "S01E08_W009",
+        "type": "word"
+      },
+      {
+        "text": "mistake",
+        "meaning": "错误",
+        "original": "...other people have made the same mistake.",
+        "scene": "钱德勒谈论别人对他的误会",
+        "example": "I made a mistake by leaving early.",
+        "id": "S01E08_W010",
+        "type": "word"
+      },
+      {
+        "text": "flush",
+        "meaning": "用水冲（马桶）",
+        "original": "I'm just gonna go flush myself down the toilet now...",
+        "scene": "钱德勒尴尬地想钻马桶",
+        "example": "Please flush the toilet after use.",
+        "id": "S01E08_W011",
+        "type": "word"
+      },
+      {
+        "text": "passed",
+        "meaning": "去世（委婉说法）",
+        "original": "...the nurse said that Nana had passed?",
+        "scene": "护士通知外婆过世",
+        "example": "Her grandfather passed away last year.",
+        "id": "S01E08_W012",
+        "type": "word"
+      },
+      {
+        "text": "present",
+        "meaning": "在场的，尚在人世的",
+        "original": "She's not-past, she's present, she's back.",
+        "scene": "罗斯说外婆又活过来了",
+        "example": "All family members were present at the wedding.",
+        "id": "S01E08_W013",
+        "type": "word"
+      },
+      {
+        "text": "focus",
+        "meaning": "集中（注意力）",
+        "original": "Can we focus, please?",
+        "scene": "莫妮卡希望大家专注讨论外婆的事",
+        "example": "I need to focus on my homework.",
+        "id": "S01E08_W014",
+        "type": "word"
+      },
+      {
+        "text": "funeral",
+        "meaning": "葬礼",
+        "original": "...what with it being her funeral and all.",
+        "scene": "在 Nana 的葬礼招待会上",
+        "example": "Many friends attended his funeral.",
+        "id": "S01E08_W015",
+        "type": "word"
+      },
+      {
+        "text": "purse",
+        "meaning": "（女用）手提包",
+        "original": "The fuzzy little mints at the bottom of her purse.",
+        "scene": "莫妮卡翻看外婆手提包里的东西",
+        "example": "She left her purse on the chair.",
+        "id": "S01E08_W016",
+        "type": "word"
+      },
+      {
+        "text": "basic",
+        "meaning": "基本的，最简单的",
+        "original": "We should get the most basic thing.",
+        "scene": "罗斯提议选最简单的棺木",
+        "example": "The room has only basic furniture.",
+        "id": "S01E08_W017",
+        "type": "word"
+      },
+      {
+        "text": "decision",
+        "meaning": "决定",
+        "original": "Dad, let's just make a decision.",
+        "scene": "莫妮卡催促父亲做决定",
+        "example": "It's time to make a decision.",
+        "id": "S01E08_W018",
+        "type": "word"
+      },
+      {
+        "text": "crazy",
+        "meaning": "疯狂的，离谱的",
+        "original": "This is crazy.",
+        "scene": "父亲无法决定棺木时说的话",
+        "example": "Driving in this storm is crazy.",
+        "id": "S01E08_W019",
+        "type": "word"
+      },
+      {
+        "text": "gross",
+        "meaning": "恶心的，令人反胃的",
+        "original": "Yeah, they were gross.",
+        "scene": "莫妮卡提到外婆包里发霉的薄荷糖",
+        "example": "The moldy bread looked gross.",
+        "id": "S01E08_W020",
+        "type": "word"
+      },
+      {
+        "text": "fuzzy",
+        "meaning": "模糊的，发霉的",
+        "original": "The fuzzy little mints at the bottom of her purse.",
+        "scene": "描述外婆包里旧薄荷糖的状态",
+        "example": "The old photograph was a bit fuzzy.",
+        "id": "S01E08_W021",
+        "type": "word"
+      },
+      {
+        "text": "steal",
+        "meaning": "偷",
+        "original": "How she was always stealing them from restaurants.",
+        "scene": "莫妮卡回忆外婆从餐厅偷代糖",
+        "example": "Someone tried to steal my bike.",
+        "id": "S01E08_W022",
+        "type": "word"
+      },
+      {
+        "text": "career",
+        "meaning": "职业，事业",
+        "original": "...and we still have boyfriends and your career to cover.",
+        "scene": "莫妮卡说在医院待久还会聊到事业",
+        "example": "She's building a successful career.",
+        "id": "S01E08_W023",
+        "type": "word"
+      },
+      {
+        "text": "buried",
+        "meaning": "埋葬的",
+        "original": "I wanna be buried at sea.",
+        "scene": "父亲说想海葬",
+        "example": "The pirates were buried on the island.",
+        "id": "S01E08_W024",
+        "type": "word"
+      },
+      {
+        "text": "ruined",
+        "meaning": "毁坏的",
+        "original": "I hope they're not ruined.",
+        "scene": "瑞秋担心保罗送的新鞋被弄脏",
+        "example": "The rain ruined our picnic.",
+        "id": "S01E08_W025",
+        "type": "word"
+      },
+      {
+        "text": "overcoat",
+        "meaning": "大衣",
+        "original": "Just your overcoat sounds remarkably like Brent Mussburger.",
+        "scene": "钱德勒调侃罗斯的外套",
+        "example": "He wore a long black overcoat.",
+        "id": "S01E08_W026",
+        "type": "word"
+      },
+      {
+        "text": "spasm",
+        "meaning": "痉挛，抽筋",
+        "original": "I'm just checking to see if the muscle's in spasm.",
+        "scene": "罗斯以为腿抽筋",
+        "example": "A muscle spasm made him stop running.",
+        "id": "S01E08_W027",
+        "type": "word"
+      },
+      {
+        "text": "critical",
+        "meaning": "挑剔的，批评的",
+        "original": "...critical of every single thing you say?",
+        "scene": "莫妮卡抱怨外婆事事挑剔",
+        "example": "My boss is very critical of my work.",
+        "id": "S01E08_W028",
+        "type": "word"
+      },
+      {
+        "text": "depressed",
+        "meaning": "沮丧的",
+        "original": "Now I'm depressed!",
+        "scene": "瑞秋戴上外婆的耳环后感到沮丧",
+        "example": "She felt depressed after failing the exam.",
+        "id": "S01E08_W029",
+        "type": "word"
+      },
+      {
+        "text": "unsaid",
+        "meaning": "未说出口的",
+        "original": "I think some things are better left unsaid.",
+        "scene": "母亲说有些事最好不说",
+        "example": "Some thoughts are better left unsaid.",
+        "id": "S01E08_W030",
+        "type": "word"
+      }
+    ],
+    "expressions": [
+      {
+        "text": "How's it going?",
+        "meaning": "最近怎么样？（日常问候）",
+        "original": "Hey gorgeous , how's it going?",
+        "scene": "钱德勒和同事打招呼",
+        "example": "Hey, Mark! How's it going?",
+        "id": "S01E08_E001",
+        "type": "expression"
+      },
+      {
+        "text": "go out with someone",
+        "meaning": "和某人约会/交往",
+        "original": "I kinda wanted to go out with her too...",
+        "scene": "钱德勒解释曾对苏珊也有好感",
+        "example": "He's been going out with her for three months.",
+        "id": "S01E08_E002",
+        "type": "expression"
+      },
+      {
+        "text": "flush oneself down the toilet",
+        "meaning": "恨不得钻进马桶里（形容极度尴尬）",
+        "original": "I'm just gonna go flush myself down the toilet now...",
+        "scene": "钱德勒因误会很尴尬",
+        "example": "After that embarrassing speech, I wanted to flush myself down the toilet.",
+        "id": "S01E08_E003",
+        "type": "expression"
+      },
+      {
+        "text": "What's with...?",
+        "meaning": "……是怎么回事？/……怎么了？",
+        "original": "What's with your hair?",
+        "scene": "盖勒太太问莫妮卡头发怎么了",
+        "example": "What's with your new haircut?",
+        "id": "S01E08_E004",
+        "type": "expression"
+      },
+      {
+        "text": "let one's guard down",
+        "meaning": "放下防备",
+        "original": "Women find you less threatening, they let their guards down...",
+        "scene": "菲比分析钱德勒给女生的感觉",
+        "example": "She never lets her guard down around strangers.",
+        "id": "S01E08_E005",
+        "type": "expression"
+      },
+      {
+        "text": "drive someone crazy",
+        "meaning": "把某人逼疯；让某人抓狂",
+        "original": "How she drove you crazy, picking on every little detail...",
+        "scene": "莫妮卡问母亲外婆如何让她抓狂",
+        "example": "His constant humming drives me crazy.",
+        "id": "S01E08_E006",
+        "type": "expression"
+      },
+      {
+        "text": "make a decision",
+        "meaning": "做决定",
+        "original": "Dad, let's just make a decision.",
+        "scene": "莫妮卡催促父亲选定棺木",
+        "example": "We need to make a decision by Friday.",
+        "id": "S01E08_E007",
+        "type": "expression"
+      },
+      {
+        "text": "be buried at sea",
+        "meaning": "海葬",
+        "original": "I wanna be buried at sea.",
+        "scene": "父亲说想海葬",
+        "example": "Sailors sometimes ask to be buried at sea.",
+        "id": "S01E08_E008",
+        "type": "expression"
+      },
+      {
+        "text": "out of one's league",
+        "meaning": "高攀不上；不在同一层次",
+        "original": "I think Brian's a little out of your league.",
+        "scene": "Lowell 说钱德勒配不上布莱恩",
+        "example": "That job is way out of my league.",
+        "id": "S01E08_E009",
+        "type": "expression"
+      },
+      {
+        "text": "make a day of it",
+        "meaning": "把这件事当成一天的特别活动；好好享受一天",
+        "original": "Come on, you'll make a day of it!",
+        "scene": "父亲描述海葬可以让孩子们玩一天",
+        "example": "Let's go to the beach and make a day of it.",
+        "id": "S01E08_E010",
+        "type": "expression"
+      }
+    ]
+  },
+  "S01E09": {
+    "title": "The One Where Underdog Gets Away",
+    "zh_title": "超能狗飞走了",
+    "words": [
+      {
+        "text": "advance",
+        "meaning": "预支（款）",
+        "original": "do you think it would be possible if I got a $100 advance in my salary?",
+        "scene": "瑞秋找老板预支工资去滑雪",
+        "example": "He asked his boss for a salary advance.",
+        "id": "S01E09_W001",
+        "type": "word"
+      },
+      {
+        "text": "salary",
+        "meaning": "薪水",
+        "original": "do you think it would be possible if I got a $100 advance in my salary?",
+        "scene": "瑞秋请求预支薪水",
+        "example": "Her annual salary is $50,000.",
+        "id": "S01E09_W002",
+        "type": "word"
+      },
+      {
+        "text": "waitress",
+        "meaning": "女服务员",
+        "original": "You're a terrible, terrible waitress.",
+        "scene": "Terry 批评瑞秋服务差",
+        "example": "The waitress brought our order quickly.",
+        "id": "S01E09_W003",
+        "type": "word"
+      },
+      {
+        "text": "awful",
+        "meaning": "糟糕的，差劲的",
+        "original": "Really, really awful.",
+        "scene": "Terry 继续批评瑞秋",
+        "example": "The weather today is awful.",
+        "id": "S01E09_W004",
+        "type": "word"
+      },
+      {
+        "text": "makeup",
+        "meaning": "化妆品",
+        "original": "Are you wearing makeup?",
+        "scene": "钱德勒调侃乔伊化了妆",
+        "example": "She put on makeup before the party.",
+        "id": "S01E09_W005",
+        "type": "word"
+      },
+      {
+        "text": "model",
+        "meaning": "模特",
+        "original": "I am officially Joey Tribbiani, actor slash model.",
+        "scene": "乔伊宣布自己是演员兼模特",
+        "example": "He works as a fashion model.",
+        "id": "S01E09_W006",
+        "type": "word"
+      },
+      {
+        "text": "poster",
+        "meaning": "海报",
+        "original": "You know those posters for the city free clinic?",
+        "scene": "乔伊说自己在免费诊所海报上当模特",
+        "example": "There is a movie poster on the wall.",
+        "id": "S01E09_W007",
+        "type": "word"
+      },
+      {
+        "text": "cute",
+        "meaning": "可爱的，帅的",
+        "original": "The asthma guy was really cute.",
+        "scene": "菲比觉得海报上的哮喘男可爱",
+        "example": "Your puppy is so cute.",
+        "id": "S01E09_W008",
+        "type": "word"
+      },
+      {
+        "text": "lump",
+        "meaning": "块状物",
+        "original": "Will you make the mashed potatoes with the lumps?",
+        "scene": "罗斯喜欢带块的土豆泥",
+        "example": "There was a lump in the soup.",
+        "id": "S01E09_W009",
+        "type": "word"
+      },
+      {
+        "text": "mashed",
+        "meaning": "捣烂的",
+        "original": "Will you make the mashed potatoes with the lumps?",
+        "scene": "感恩节晚餐准备土豆泥",
+        "example": "I love mashed potatoes with gravy.",
+        "id": "S01E09_W010",
+        "type": "word"
+      },
+      {
+        "text": "boycotting",
+        "meaning": "抵制",
+        "original": "you are still boycotting all the pilgrim holidays.",
+        "scene": "莫妮卡问钱德勒是否仍抵制感恩节",
+        "example": "They are boycotting the new tax policy.",
+        "id": "S01E09_W011",
+        "type": "word"
+      },
+      {
+        "text": "pilgrim",
+        "meaning": "清教徒，朝圣者",
+        "original": "you are still boycotting all the pilgrim holidays.",
+        "scene": "钱德勒抵制清教徒节日",
+        "example": "The Pilgrims celebrated the first Thanksgiving.",
+        "id": "S01E09_W012",
+        "type": "word"
+      },
+      {
+        "text": "tradition",
+        "meaning": "传统",
+        "original": "It's like a tradition.",
+        "scene": "乔伊说妈妈每年做土豆小丸子",
+        "example": "It's a family tradition to eat dumplings.",
+        "id": "S01E09_W013",
+        "type": "word"
+      },
+      {
+        "text": "familiar",
+        "meaning": "熟悉的",
+        "original": "Yes, I'm familiar with the concept.",
+        "scene": "罗斯解释头骨样子给苏珊",
+        "example": "Are you familiar with this song?",
+        "id": "S01E09_W014",
+        "type": "word"
+      },
+      {
+        "text": "concept",
+        "meaning": "概念",
+        "original": "Yes, I'm familiar with the concept.",
+        "scene": "苏珊说理解头骨的概念",
+        "example": "The concept is easy to understand.",
+        "id": "S01E09_W015",
+        "type": "word"
+      },
+      {
+        "text": "balloon",
+        "meaning": "气球",
+        "original": "Of course the balloon.",
+        "scene": "大家讨论超能狗气球飞走了",
+        "example": "The children released colorful balloons.",
+        "id": "S01E09_W016",
+        "type": "word"
+      },
+      {
+        "text": "inflatable",
+        "meaning": "可充气的",
+        "original": "An 80-foot inflatable dog let loose over the city.",
+        "scene": "新闻报道超能狗气球",
+        "example": "They brought an inflatable mattress.",
+        "id": "S01E09_W017",
+        "type": "word"
+      },
+      {
+        "text": "crispy",
+        "meaning": "酥脆的",
+        "original": "Ok, right about now the turkey should be crispy on the outside, juicy on the inside.",
+        "scene": "莫妮卡检查火鸡",
+        "example": "The fried chicken is crispy and delicious.",
+        "id": "S01E09_W018",
+        "type": "word"
+      },
+      {
+        "text": "juicy",
+        "meaning": "多汁的",
+        "original": "Ok, right about now the turkey should be crispy on the outside, juicy on the inside.",
+        "scene": "莫妮卡描述火鸡的口感",
+        "example": "This watermelon is really juicy.",
+        "id": "S01E09_W019",
+        "type": "word"
+      },
+      {
+        "text": "burnt",
+        "meaning": "烧焦的",
+        "original": "Well, the turkey's burnt.",
+        "scene": "大家发现火鸡烧焦",
+        "example": "I accidentally burnt the toast.",
+        "id": "S01E09_W020",
+        "type": "word"
+      },
+      {
+        "text": "carve",
+        "meaning": "切（肉）",
+        "original": "Shall I carve?",
+        "scene": "钱德勒主动切火鸡",
+        "example": "My father always carves the turkey.",
+        "id": "S01E09_W021",
+        "type": "word"
+      },
+      {
+        "text": "toast",
+        "meaning": "祝酒，干杯",
+        "original": "I'd like to propose a toast.",
+        "scene": "钱德勒提议敬酒",
+        "example": "Let's drink a toast to the happy couple.",
+        "id": "S01E09_W022",
+        "type": "word"
+      },
+      {
+        "text": "thankful",
+        "meaning": "感激的",
+        "original": "I'm very thankful that all of your Thanksgivings sucked.",
+        "scene": "钱德勒感恩节致辞",
+        "example": "I'm thankful for my family and friends.",
+        "id": "S01E09_W023",
+        "type": "word"
+      },
+      {
+        "text": "disease",
+        "meaning": "疾病",
+        "original": "It's bad enough I can't be with my family because of my disease.",
+        "scene": "乔伊抱怨因性病无法回家",
+        "example": "Scientists are studying the new disease.",
+        "id": "S01E09_W024",
+        "type": "word"
+      },
+      {
+        "text": "chip in",
+        "meaning": "凑钱，捐助",
+        "original": "We all chipped in.",
+        "scene": "朋友们凑钱给瑞秋买票",
+        "example": "We all chipped in to buy her a gift.",
+        "id": "S01E09_W025",
+        "type": "word"
+      },
+      {
+        "text": "bucks",
+        "meaning": "美元（口语）",
+        "original": "You owe me 20 bucks.",
+        "scene": "菲比提醒钱德勒凑份子",
+        "example": "This shirt cost me thirty bucks.",
+        "id": "S01E09_W026",
+        "type": "word"
+      },
+      {
+        "text": "spill",
+        "meaning": "洒，溅出",
+        "original": "Hey, I'm sorry about that spill before.",
+        "scene": "瑞秋把咖啡溅到顾客身上",
+        "example": "Be careful not to spill the milk.",
+        "id": "S01E09_W027",
+        "type": "word"
+      },
+      {
+        "text": "amazing",
+        "meaning": "令人惊叹的",
+        "original": "I'm serious. You're amazing.",
+        "scene": "香水男夸奖瑞秋",
+        "example": "The view from the mountain is amazing.",
+        "id": "S01E09_W028",
+        "type": "word"
+      },
+      {
+        "text": "responsibility",
+        "meaning": "责任",
+        "original": "Why? Because everything is my responsibility?",
+        "scene": "莫妮卡因钥匙争吵崩溃",
+        "example": "It's your responsibility to finish the report.",
+        "id": "S01E09_W029",
+        "type": "word"
+      },
+      {
+        "text": "delicious",
+        "meaning": "美味的",
+        "original": "I was busting my ass to make this delicious Thanksgiving dinner?",
+        "scene": "莫妮卡为自己做的感恩节大餐辩护",
+        "example": "The cake looks delicious.",
+        "id": "S01E09_W030",
+        "type": "word"
+      }
+    ],
+    "expressions": [
+      {
+        "text": "get an advance",
+        "meaning": "预支工资/款项",
+        "original": "do you think it would be possible if I got a $100 advance in my salary?",
+        "scene": "瑞秋找老板预支工资",
+        "example": "Can I get an advance on next month's salary?",
+        "id": "S01E09_E001",
+        "type": "expression"
+      },
+      {
+        "text": "hear what you're saying",
+        "meaning": "明白你的意思",
+        "original": "Ok, I, I hear what you're saying.",
+        "scene": "瑞秋回应 Terry 的批评",
+        "example": "I hear what you're saying, but I disagree.",
+        "id": "S01E09_E002",
+        "type": "expression"
+      },
+      {
+        "text": "make it to",
+        "meaning": "赶到；成功去成（某地）",
+        "original": "Rach, are you thinking you're gonna make it to Vail?",
+        "scene": "莫妮卡问瑞秋能否去韦尔滑雪",
+        "example": "I hope we can make it to the airport on time.",
+        "id": "S01E09_E003",
+        "type": "expression"
+      },
+      {
+        "text": "chip in",
+        "meaning": "凑钱，共同出钱",
+        "original": "We all chipped in.",
+        "scene": "朋友们凑钱给瑞秋买机票",
+        "example": "We all chipped in to buy her a birthday present.",
+        "id": "S01E09_E004",
+        "type": "expression"
+      },
+      {
+        "text": "back off",
+        "meaning": "退后；别管闲事",
+        "original": "Ross, don't take this the wrong way or anything, but back off.",
+        "scene": "莫妮卡让罗斯别管土豆泥",
+        "example": "Back off! I can handle this myself.",
+        "id": "S01E09_E005",
+        "type": "expression"
+      },
+      {
+        "text": "do the math",
+        "meaning": "你自己算；显而易见",
+        "original": "You do the math.",
+        "scene": "菲比面对一大串钥匙说只有一个锁眼",
+        "example": "There were ten people and two pizzas—do the math.",
+        "id": "S01E09_E006",
+        "type": "expression"
+      },
+      {
+        "text": "meet me halfway",
+        "meaning": "各退一步；互相妥协",
+        "original": "If I'm gonna cheer you up, you have to meet me halfway.",
+        "scene": "钱德勒想安慰瑞秋",
+        "example": "I'll lower the price if you meet me halfway.",
+        "id": "S01E09_E007",
+        "type": "expression"
+      },
+      {
+        "text": "make a wish",
+        "meaning": "许愿",
+        "original": "Ooh, you guys have to make a wish.",
+        "scene": "菲比让大家在掰 wishbone 时许愿",
+        "example": "Close your eyes and make a wish.",
+        "id": "S01E09_E008",
+        "type": "expression"
+      },
+      {
+        "text": "propose a toast",
+        "meaning": "提议举杯/祝酒",
+        "original": "I'd like to propose a toast.",
+        "scene": "钱德勒在感恩节晚餐上祝酒",
+        "example": "I'd like to propose a toast to the bride and groom.",
+        "id": "S01E09_E009",
+        "type": "expression"
+      },
+      {
+        "text": "get away",
+        "meaning": "逃脱；飞走",
+        "original": "Underdog has just gotten away.",
+        "scene": "新闻报道超能狗气球飞走了",
+        "example": "The dog got away from its owner.",
+        "id": "S01E09_E010",
+        "type": "expression"
+      }
+    ]
+  },
+  "S01E10": {
+    "title": "The One With the Monkey",
+    "zh_title": "那只猴子",
+    "words": [
+      {
+        "text": "festive",
+        "meaning": "节日的，喜庆的",
+        "original": "That's festive.",
+        "scene": "大家看到丑裸男挂糖果藤",
+        "example": "The town is festive during Christmas.",
+        "id": "S01E10_W001",
+        "type": "word"
+      },
+      {
+        "text": "precious",
+        "meaning": "珍贵的，可爱的",
+        "original": "Oh, he is precious!",
+        "scene": "菲比看到罗斯的新宠物猴 Marcel",
+        "example": "The baby looked precious in her sleep.",
+        "id": "S01E10_W002",
+        "type": "word"
+      },
+      {
+        "text": "cruel",
+        "meaning": "残忍的",
+        "original": "That is so cruel.",
+        "scene": "瑞秋说从实验室救猴子很残忍，钱德勒误以为是名字",
+        "example": "It's cruel to laugh at others.",
+        "id": "S01E10_W003",
+        "type": "word"
+      },
+      {
+        "text": "roommate",
+        "meaning": "室友",
+        "original": "Why don't you just get a roommate?",
+        "scene": "乔伊建议罗斯找室友",
+        "example": "My roommate and I share the kitchen.",
+        "id": "S01E10_W004",
+        "type": "word"
+      },
+      {
+        "text": "pathetic",
+        "meaning": "可悲的，可怜的",
+        "original": "I'll be just as pathetic as you.",
+        "scene": "瑞秋说自己没有保罗陪也很惨",
+        "example": "He felt pathetic after losing the game.",
+        "id": "S01E10_W005",
+        "type": "word"
+      },
+      {
+        "text": "jolly",
+        "meaning": "愉快的，欢乐的",
+        "original": "He's not even jolly.",
+        "scene": "乔伊抱怨新圣诞老人不喜庆",
+        "example": "Santa Claus is often described as jolly.",
+        "id": "S01E10_W006",
+        "type": "word"
+      },
+      {
+        "text": "helper",
+        "meaning": "助手，帮手",
+        "original": "I'm gonna be one of his helpers.",
+        "scene": "乔伊当圣诞老人的助手小精灵",
+        "example": "She works as a teacher's helper.",
+        "id": "S01E10_W007",
+        "type": "word"
+      },
+      {
+        "text": "pact",
+        "meaning": "协议，约定",
+        "original": "I say this year, no dates, we make a pact.",
+        "scene": "罗斯提议新年不约会约定",
+        "example": "We made a pact to exercise every day.",
+        "id": "S01E10_W008",
+        "type": "word"
+      },
+      {
+        "text": "enthusiasm",
+        "meaning": "热情，热心",
+        "original": "I was hoping for a little more enthusiasm.",
+        "scene": "罗斯希望大家对约定更热情",
+        "example": "The students showed great enthusiasm.",
+        "id": "S01E10_W009",
+        "type": "word"
+      },
+      {
+        "text": "demand",
+        "meaning": "需求；要求",
+        "original": "Ladies and gentlemen, back by popular demand, ... Miss Phoebe Buffay.",
+        "scene": "菲比上台表演被介绍",
+        "example": "The product is in high demand.",
+        "id": "S01E10_W010",
+        "type": "word"
+      },
+      {
+        "text": "romantic",
+        "meaning": "浪漫的",
+        "original": "I think it's romantic.",
+        "scene": "瑞秋评论大卫慢慢进展很浪漫",
+        "example": "He planned a romantic dinner.",
+        "id": "S01E10_W011",
+        "type": "word"
+      },
+      {
+        "text": "gentle",
+        "meaning": "温柔的，温和的",
+        "original": "...he's smarter, and gentler, and sweeter...",
+        "scene": "菲比形容大卫",
+        "example": "Be gentle with the baby.",
+        "id": "S01E10_W012",
+        "type": "word"
+      },
+      {
+        "text": "occasion",
+        "meaning": "场合，特别的日子",
+        "original": "...and special occasions...",
+        "scene": "菲比想和大卫时时刻刻在一起",
+        "example": "I save this dress for special occasions.",
+        "id": "S01E10_W013",
+        "type": "word"
+      },
+      {
+        "text": "scientist",
+        "meaning": "科学家",
+        "original": "David's, like, a scientist guy.",
+        "scene": "菲比介绍大卫",
+        "example": "She wants to be a scientist when she grows up.",
+        "id": "S01E10_W014",
+        "type": "word"
+      },
+      {
+        "text": "theory",
+        "meaning": "理论",
+        "original": "But, you can't actually test this theory.",
+        "scene": "大卫在咖啡店讲物理理论",
+        "example": "Einstein developed the theory of relativity.",
+        "id": "S01E10_W015",
+        "type": "word"
+      },
+      {
+        "text": "valid",
+        "meaning": "有效的，合理的",
+        "original": "that's definitely a valid question.",
+        "scene": "菲比问大卫何时吻她",
+        "example": "Your passport is valid for ten years.",
+        "id": "S01E10_W016",
+        "type": "word"
+      },
+      {
+        "text": "phenomenal",
+        "meaning": "非凡的，了不起的",
+        "original": "I wanted it to be this phenomenal kiss that happened at this phenomenal moment...",
+        "scene": "大卫解释想等完美时刻再吻",
+        "example": "The concert was phenomenal.",
+        "id": "S01E10_W017",
+        "type": "word"
+      },
+      {
+        "text": "spill",
+        "meaning": "洒出",
+        "original": "Look at me, spilling everywhere.",
+        "scene": "莫妮卡在聚会上洒了饮料",
+        "example": "Don't spill juice on the carpet.",
+        "id": "S01E10_W018",
+        "type": "word"
+      },
+      {
+        "text": "lipstick",
+        "meaning": "口红",
+        "original": "You went a bit wide on the lipstick.",
+        "scene": "莫妮卡帮瑞秋涂口红",
+        "example": "She applied red lipstick.",
+        "id": "S01E10_W019",
+        "type": "word"
+      },
+      {
+        "text": "embarrassed",
+        "meaning": "尴尬的，难为情的",
+        "original": "He was more embarrassed about that than anyone.",
+        "scene": "罗斯为 Marcel 尿在桌上道歉",
+        "example": "I was embarrassed by my mistake.",
+        "id": "S01E10_W020",
+        "type": "word"
+      },
+      {
+        "text": "courage",
+        "meaning": "勇气",
+        "original": "And for him to have the courage to walk back in here like nothing happened...",
+        "scene": "罗斯为 Marcel 辩护",
+        "example": "It takes courage to speak in public.",
+        "id": "S01E10_W021",
+        "type": "word"
+      },
+      {
+        "text": "mingle",
+        "meaning": "交际，混在人群中",
+        "original": "whaddya say you and I do a little mingling?",
+        "scene": "罗斯带 Marcel 去应酬",
+        "example": "At parties, I like to mingle with new people.",
+        "id": "S01E10_W022",
+        "type": "word"
+      },
+      {
+        "text": "explode",
+        "meaning": "爆炸；（脸）肿起来",
+        "original": "And then your face exploded?",
+        "scene": "钱德勒调侃瑞秋受伤的脸",
+        "example": "The balloon exploded with a loud bang.",
+        "id": "S01E10_W023",
+        "type": "word"
+      },
+      {
+        "text": "diaper",
+        "meaning": "尿布",
+        "original": "I'm still in there, changing his diapers.",
+        "scene": "罗斯抱怨照顾 Marcel",
+        "example": "The baby needs a clean diaper.",
+        "id": "S01E10_W024",
+        "type": "word"
+      },
+      {
+        "text": "flea",
+        "meaning": "跳蚤",
+        "original": "Picking his fleas.",
+        "scene": "罗斯继续抱怨照顾 Marcel",
+        "example": "The dog was treated for fleas.",
+        "id": "S01E10_W025",
+        "type": "word"
+      },
+      {
+        "text": "tackle",
+        "meaning": "擒抱，扑倒",
+        "original": "And as I'm going to get into a cab she tackles me.",
+        "scene": "瑞秋被抢出租车的女人扑倒",
+        "example": "The football player made a great tackle.",
+        "id": "S01E10_W026",
+        "type": "word"
+      },
+      {
+        "text": "curb",
+        "meaning": "路边，路缘",
+        "original": "And I hit my head on the curb...",
+        "scene": "瑞秋摔倒撞到路边",
+        "example": "He parked too close to the curb.",
+        "id": "S01E10_W027",
+        "type": "word"
+      },
+      {
+        "text": "whistle",
+        "meaning": "哨子",
+        "original": "So I'm blowing my attack whistle thingy...",
+        "scene": "瑞秋吹防狼哨",
+        "example": "The referee blew his whistle.",
+        "id": "S01E10_W028",
+        "type": "word"
+      },
+      {
+        "text": "psycho",
+        "meaning": "精神变态的，疯子（俚语）",
+        "original": "Screw Paolo, screw the psycho cab lady.",
+        "scene": "瑞秋骂抢出租车的女人",
+        "example": "That psycho driver almost hit me.",
+        "id": "S01E10_W029",
+        "type": "word"
+      },
+      {
+        "text": "sweep",
+        "meaning": "扫，挥落",
+        "original": "...sweep everything off the table...",
+        "scene": "大卫说想浪漫地把桌上东西扫掉",
+        "example": "She swept the floor clean.",
+        "id": "S01E10_W030",
+        "type": "word"
+      }
+    ],
+    "expressions": [
+      {
+        "text": "for your information",
+        "meaning": "跟你说一下；供你参考",
+        "original": "Well, for your information, Paolo is gonna be in Rome this New Year...",
+        "scene": "瑞秋告诉钱德勒保罗新年不在",
+        "example": "For your information, the meeting has been moved to Tuesday.",
+        "id": "S01E10_E001",
+        "type": "expression"
+      },
+      {
+        "text": "sick of",
+        "meaning": "厌倦，受够了",
+        "original": "I'm sick of being a victim of this Dick Clark holiday.",
+        "scene": "钱德勒抱怨新年压力",
+        "example": "I'm sick of waiting in long lines.",
+        "id": "S01E10_E002",
+        "type": "expression"
+      },
+      {
+        "text": "a slap in the face",
+        "meaning": "一记耳光；令人难堪的待遇",
+        "original": "It's just such a slap in the face, you know?",
+        "scene": "乔伊抱怨从圣诞老人降职为助手",
+        "example": "Getting no credit for my work was a slap in the face.",
+        "id": "S01E10_E003",
+        "type": "expression"
+      },
+      {
+        "text": "back by popular demand",
+        "meaning": "应观众/大众要求回归",
+        "original": "Ladies and gentlemen, back by popular demand, Miss Phoebe Buffay.",
+        "scene": "菲比上台表演被介绍",
+        "example": "The band is back by popular demand.",
+        "id": "S01E10_E004",
+        "type": "expression"
+      },
+      {
+        "text": "speak up",
+        "meaning": "大声点说；直言",
+        "original": "Could you speak up please?",
+        "scene": "菲比让吵闹的男生大声说话",
+        "example": "Please speak up so everyone can hear.",
+        "id": "S01E10_E005",
+        "type": "expression"
+      },
+      {
+        "text": "make out with",
+        "meaning": "和……亲热接吻",
+        "original": "I wanna stay and make out with my girlfriend!",
+        "scene": "麦克斯替大卫说出心里话",
+        "example": "They were making out with each other at the party.",
+        "id": "S01E10_E006",
+        "type": "expression"
+      },
+      {
+        "text": "break the pact",
+        "meaning": "打破约定",
+        "original": "You're gonna break the pact.",
+        "scene": "大家发现莫妮卡约了 Fun Bobby",
+        "example": "If you leave early, you'll break the pact.",
+        "id": "S01E10_E007",
+        "type": "expression"
+      },
+      {
+        "text": "keep away from",
+        "meaning": "远离",
+        "original": "Just keep him away from me.",
+        "scene": "莫妮卡让 Ross 把 Marcel 离她远点",
+        "example": "Keep away from the edge of the cliff.",
+        "id": "S01E10_E008",
+        "type": "expression"
+      },
+      {
+        "text": "have a blast",
+        "meaning": "玩得很开心",
+        "original": "I had such a blast with him the other night.",
+        "scene": "莫妮卡说和 Marcel 玩得很开心",
+        "example": "We had a blast at the concert last night.",
+        "id": "S01E10_E009",
+        "type": "expression"
+      },
+      {
+        "text": "phone it in",
+        "meaning": "敷衍了事；得过且过",
+        "original": "But he's just phoning it in.",
+        "scene": "罗斯抱怨 Marcel 对感情不投入",
+        "example": "He didn't prepare; he just phoned it in.",
+        "id": "S01E10_E010",
+        "type": "expression"
+      }
+    ]
+  }
+}

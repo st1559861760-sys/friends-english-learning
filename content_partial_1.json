@@ -1,0 +1,1106 @@
+{
+  "S01E01": {
+    "title": "The One Where Monica Gets a Roommate",
+    "zh_title": "莫妮卡的新室友",
+    "words": [
+      {
+        "id": "S01E01-W01",
+        "type": "word",
+        "text": "date",
+        "meaning": "约会",
+        "original": "This is not even a date.",
+        "scene": "莫妮卡说和保罗出去吃饭不算是约会，大家在中央公园咖啡馆里调侃她。",
+        "example": "Are you going on a date with him tonight?"
+      },
+      {
+        "id": "S01E01-W02",
+        "type": "word",
+        "text": "naked",
+        "meaning": "裸体的",
+        "original": "I realize I am totally naked.",
+        "scene": "钱德勒讲述自己做了一个在食堂里全身赤裸的怪梦。",
+        "example": "I walked into the wrong changing room and felt completely naked."
+      },
+      {
+        "id": "S01E01-W03",
+        "type": "word",
+        "text": "figure",
+        "meaning": "认为，断定",
+        "original": "Finally, I figure I'd better answer it.",
+        "scene": "钱德勒在梦中听到电话响，最后决定接起来。",
+        "example": "I figure we should leave before the rain starts."
+      },
+      {
+        "id": "S01E01-W04",
+        "type": "word",
+        "text": "weird",
+        "meaning": "奇怪的",
+        "original": "It turns out it's my mother, which is very-very weird because she never calls me!",
+        "scene": "钱德勒在梦中接电话，发现是妈妈打来的，觉得很奇怪。",
+        "example": "It's weird that he didn't show up for work today."
+      },
+      {
+        "id": "S01E01-W05",
+        "type": "word",
+        "text": "stuff",
+        "meaning": "东西，物品",
+        "original": "Carol moved her stuff out today.",
+        "scene": "罗斯难过地告诉大家，前妻卡罗尔今天把东西都搬走了。",
+        "example": "I need to pack all my stuff before moving."
+      },
+      {
+        "id": "S01E01-W06",
+        "type": "word",
+        "text": "relax",
+        "meaning": "放松",
+        "original": "Okay, everybody relax.",
+        "scene": "大家围着罗斯开玩笑，莫妮卡让大家放松一点。",
+        "example": "Take a deep breath and try to relax."
+      },
+      {
+        "id": "S01E01-W07",
+        "type": "word",
+        "text": "lesbian",
+        "meaning": "女同性恋者",
+        "original": "And you never knew she was a lesbian...",
+        "scene": "菲比直接点出罗斯离婚的原因，大家讨论卡罗尔是女同性恋。",
+        "example": "She came out as a lesbian in college."
+      },
+      {
+        "id": "S01E01-W08",
+        "type": "word",
+        "text": "single",
+        "meaning": "单身的",
+        "original": "I don't want to be single, okay?",
+        "scene": "罗斯哭诉自己不想单身，只想再次结婚。",
+        "example": "He's been single for two years now."
+      },
+      {
+        "id": "S01E01-W09",
+        "type": "word",
+        "text": "gorgeous",
+        "meaning": "极美的，华丽的",
+        "original": "This really gorgeous Limoges gravy boat.",
+        "scene": "瑞秋回忆婚礼前看到一只精美的调味汁瓶，突然觉醒自己不爱巴瑞。",
+        "example": "You look gorgeous in that dress."
+      },
+      {
+        "id": "S01E01-W10",
+        "type": "word",
+        "text": "freak out",
+        "meaning": "吓坏了，惊慌失措",
+        "original": "And then I got really freaked out.",
+        "scene": "瑞秋意识到自己竟然对调味汁瓶比对未婚夫更有感觉，吓坏了。",
+        "example": "Don't freak out, but I think I lost your keys."
+      },
+      {
+        "id": "S01E01-W11",
+        "type": "word",
+        "text": "metaphor",
+        "meaning": "隐喻，比喻",
+        "original": "It's a metaphor, Daddy!",
+        "scene": "瑞秋对父亲解释自己不想只做一只鞋子，这是人生比喻。",
+        "example": "The phrase 'time is money' is a common metaphor."
+      },
+      {
+        "id": "S01E01-W12",
+        "type": "word",
+        "text": "drift apart",
+        "meaning": "疏远，渐行渐远",
+        "original": "You and I have kinda drifted apart, but you're the only person I knew who lived here in the city.",
+        "scene": "瑞秋逃到莫妮卡家，解释虽然两人疏远了，但莫妮卡是她唯一认识的人。",
+        "example": "We used to be close, but we slowly drifted apart."
+      },
+      {
+        "id": "S01E01-W13",
+        "type": "word",
+        "text": "issue",
+        "meaning": "问题，争议",
+        "original": "I was kinda hoping that wouldn't be an issue...",
+        "scene": "瑞秋说莫妮卡没被邀请参加婚礼，希望这不会成为问题。",
+        "example": "Money is a sensitive issue in many relationships."
+      },
+      {
+        "id": "S01E01-W14",
+        "type": "word",
+        "text": "present",
+        "meaning": "礼物",
+        "original": "I was in the room where we were keeping all the presents.",
+        "scene": "瑞秋回忆婚礼前在放礼品的房间里看调味汁瓶。",
+        "example": "I bought a present for my mom's birthday."
+      },
+      {
+        "id": "S01E01-W15",
+        "type": "word",
+        "text": "bridesmaid",
+        "meaning": "伴娘",
+        "original": "So you wanna tell us now or are we waiting for four wet bridesmaids?",
+        "scene": "钱德勒调侃瑞秋，问她要不要等四位湿漉漉的伴娘来了再说。",
+        "example": "She asked her sister to be her bridesmaid."
+      },
+      {
+        "id": "S01E01-W16",
+        "type": "word",
+        "text": "gravy",
+        "meaning": "肉汁",
+        "original": "I was looking at this gravy boat.",
+        "scene": "瑞秋看着一只调味汁瓶出神，意识到自己对婚姻的不满。",
+        "example": "Please pass me the gravy for the mashed potatoes."
+      },
+      {
+        "id": "S01E01-W17",
+        "type": "word",
+        "text": "independent",
+        "meaning": "独立的",
+        "original": "Independence. Taking control of your life.",
+        "scene": "莫妮卡鼓励瑞秋独立，掌控自己的人生。",
+        "example": "She moved out to become more independent."
+      },
+      {
+        "id": "S01E01-W18",
+        "type": "word",
+        "text": "furniture",
+        "meaning": "家具",
+        "original": "Joey and Chandler are coming over to help me put together my new furniture.",
+        "scene": "莫妮卡让瑞秋一起来组装新家具，乔伊和钱德勒会来帮忙。",
+        "example": "We bought some new furniture for the living room."
+      },
+      {
+        "id": "S01E01-W19",
+        "type": "word",
+        "text": "bookcase",
+        "meaning": "书架",
+        "original": "We got a bookcase.",
+        "scene": "乔伊和钱德勒帮莫妮卡组装家具，以为装好了一个书架。",
+        "example": "I need a bigger bookcase for all my novels."
+      },
+      {
+        "id": "S01E01-W20",
+        "type": "word",
+        "text": "bracket",
+        "meaning": "支架",
+        "original": "I would have to say that is an 'L'-shaped bracket.",
+        "scene": "乔伊和钱德勒搞不懂剩下的零件，猜测是L形支架。",
+        "example": "The shelf needs a metal bracket to support it."
+      },
+      {
+        "id": "S01E01-W21",
+        "type": "word",
+        "text": "screw",
+        "meaning": "欺骗，坑害",
+        "original": "You got screwed.",
+        "scene": "大家发现卡罗尔带走了家具和电器，罗斯什么也没得到，钱德勒说他被坑了。",
+        "example": "I got screwed by that car dealership."
+      },
+      {
+        "id": "S01E01-W22",
+        "type": "word",
+        "text": "idiot",
+        "meaning": "白痴，笨蛋",
+        "original": "I'm such an idiot.",
+        "scene": "罗斯自责没发现卡罗尔每周看四五次牙医的真正原因。",
+        "example": "I felt like an idiot for forgetting her name."
+      },
+      {
+        "id": "S01E01-W23",
+        "type": "word",
+        "text": "towel",
+        "meaning": "毛巾",
+        "original": "I shredded my old boyfriend's favorite bath towel.",
+        "scene": "菲比讲自己失恋后干过最坏的事，把前男友最喜欢的浴巾撕烂。",
+        "example": "Could you hand me a clean towel?"
+      },
+      {
+        "id": "S01E01-W24",
+        "type": "word",
+        "text": "divorce",
+        "meaning": "离婚",
+        "original": "I'm divorced. I'm only 26, and I'm divorced!",
+        "scene": "罗斯在咖啡馆里沮丧地宣布自己离婚了。",
+        "example": "Their divorce was finalized last month."
+      },
+      {
+        "id": "S01E01-W25",
+        "type": "word",
+        "text": "flavor",
+        "meaning": "口味，味道",
+        "original": "That's like saying there's only one flavor of ice cream for you.",
+        "scene": "乔伊安慰罗斯，说世界上还有很多女人，就像冰淇淋有很多口味。",
+        "example": "What's your favorite flavor of ice cream?"
+      },
+      {
+        "id": "S01E01-W26",
+        "type": "word",
+        "text": "freezer",
+        "meaning": "冰箱，冷冻库",
+        "original": "Stay out of my freezer!",
+        "scene": "乔伊用冰淇淋比喻女人，罗斯让他离冰箱远点。",
+        "example": "I keep frozen vegetables in the freezer."
+      },
+      {
+        "id": "S01E01-W27",
+        "type": "word",
+        "text": "perform",
+        "meaning": "表现，执行",
+        "original": "I haven't been able to, uh, perform.",
+        "scene": "罗斯向保罗倾诉自从卡罗尔离开后，自己在性生活上无法表现。",
+        "example": "She performed well under pressure."
+      },
+      {
+        "id": "S01E01-W28",
+        "type": "word",
+        "text": "cancel",
+        "meaning": "取消",
+        "original": "Rach, wait, I can cancel...",
+        "scene": "莫妮卡想为了陪瑞秋而取消和保罗的约会。",
+        "example": "I had to cancel my dentist appointment."
+      },
+      {
+        "id": "S01E01-W29",
+        "type": "word",
+        "text": "interview",
+        "meaning": "面试",
+        "original": "I was laughed out of twelve interviews today.",
+        "scene": "瑞秋找工作失败，说今天十二场面试都被嘲笑出来。",
+        "example": "I have a job interview tomorrow morning."
+      },
+      {
+        "id": "S01E01-W30",
+        "type": "word",
+        "text": "credit card",
+        "meaning": "信用卡",
+        "original": "How'd you pay for them? Uh, credit card.",
+        "scene": "瑞秋买了打折靴子，大家问她怎么付的，她说是爸爸的信用卡。",
+        "example": "I paid for dinner with my credit card."
+      }
+    ],
+    "expressions": [
+      {
+        "id": "S01E01-E01",
+        "type": "expression",
+        "text": "going out with",
+        "meaning": "和……约会/交往",
+        "original": "C'mon, you're going out with the guy!",
+        "scene": "乔伊一语道破莫妮卡和保罗的关系，说他们在约会。",
+        "example": "I heard she's going out with someone from her office."
+      },
+      {
+        "id": "S01E01-E02",
+        "type": "expression",
+        "text": "go through",
+        "meaning": "经历（困难等）",
+        "original": "I don't want her to go through what I went through with Carl.",
+        "scene": "乔伊不想让瑞秋经历自己曾经受过的情伤。",
+        "example": "She's going through a tough time right now."
+      },
+      {
+        "id": "S01E01-E03",
+        "type": "expression",
+        "text": "to hell with",
+        "meaning": "去他的，管他的",
+        "original": "To hell with her, she left me!",
+        "scene": "罗斯假装大方祝福卡罗尔，随后改口说去她的，是她甩了我。",
+        "example": "To hell with the rules, let's have some fun."
+      },
+      {
+        "id": "S01E01-E04",
+        "type": "expression",
+        "text": "fixate on",
+        "meaning": "纠结于，念念不忘",
+        "original": "Why does everyone keep fixating on that?",
+        "scene": "罗斯不想大家一直围绕他是同性恋前妻的话题打转。",
+        "example": "Don't fixate on your mistakes; learn from them."
+      },
+      {
+        "id": "S01E01-E05",
+        "type": "expression",
+        "text": "Dear Diary moment",
+        "meaning": "值得永久铭记的时刻",
+        "original": "Ooh, this is a Dear Diary moment.",
+        "scene": "瑞秋兴奋地说莫妮卡终于等到保罗约她，这是值得写日记的时刻。",
+        "example": "Getting the job offer was a real Dear Diary moment."
+      },
+      {
+        "id": "S01E01-E06",
+        "type": "expression",
+        "text": "put together",
+        "meaning": "组装",
+        "original": "Joey and Chandler are coming over to help me put together my new furniture.",
+        "scene": "莫妮卡邀请瑞秋来家里，乔伊和钱德勒会帮忙组装新家具。",
+        "example": "It took me three hours to put together the desk."
+      },
+      {
+        "id": "S01E01-E07",
+        "type": "expression",
+        "text": "on a roll",
+        "meaning": "顺势头正旺，连续成功",
+        "original": "Listen, while you're on a roll...",
+        "scene": "钱德勒见瑞秋会做咖啡了，调侃她既然状态好就再做个煎蛋卷。",
+        "example": "She's on a roll, winning every game this week."
+      },
+      {
+        "id": "S01E01-E08",
+        "type": "expression",
+        "text": "Grab a spoon",
+        "meaning": "放马过来/抓住机会",
+        "original": "Welcome back to the world! Grab a spoon!",
+        "scene": "乔伊鼓励罗斯重回单身世界，像吃冰淇淋一样去认识不同的人。",
+        "example": "The job market is hot—grab a spoon and apply everywhere."
+      },
+      {
+        "id": "S01E01-E09",
+        "type": "expression",
+        "text": "crash on the couch",
+        "meaning": "在沙发上睡",
+        "original": "You gonna crash on the couch?",
+        "scene": "瑞秋剪掉信用卡后，莫妮卡问她要不要在沙发上睡。",
+        "example": "Can I crash on the couch tonight? I'm too tired to go home."
+      },
+      {
+        "id": "S01E01-E10",
+        "type": "expression",
+        "text": "major crush on",
+        "meaning": "暗恋/迷恋",
+        "original": "Back in high school, I had a, um, major crush on you.",
+        "scene": "罗斯向瑞秋坦白高中时曾暗恋她。",
+        "example": "He had a major crush on her since freshman year."
+      }
+    ]
+  },
+  "S01E02": {
+    "title": "The One with the Sonogram at the End",
+    "zh_title": "尾声的超声波",
+    "words": [
+      {
+        "id": "S01E02-W01",
+        "type": "word",
+        "text": "kiss",
+        "meaning": "接吻",
+        "original": "For us, kissing is as important as any part of it.",
+        "scene": "瑞秋向男生们解释，对女生来说接吻非常重要。",
+        "example": "They shared their first kiss under the stars."
+      },
+      {
+        "id": "S01E02-W02",
+        "type": "word",
+        "text": "absolutely",
+        "meaning": "绝对地，当然",
+        "original": "Everything you need to know is in that first kiss. Absolutely.",
+        "scene": "莫妮卡赞同瑞秋，说初吻能说明一切。",
+        "example": "Are you coming to the party? Absolutely!"
+      },
+      {
+        "id": "S01E02-W03",
+        "type": "word",
+        "text": "comedian",
+        "meaning": "喜剧演员",
+        "original": "I mean it's like the stand-up comedian you have to sit through before Pink Floyd comes out.",
+        "scene": "钱德勒把接吻比作演唱会前的暖场喜剧演员。",
+        "example": "The comedian made everyone laugh at the club."
+      },
+      {
+        "id": "S01E02-W04",
+        "type": "word",
+        "text": "issue",
+        "meaning": "问题，麻烦",
+        "original": "Well, she has issues.",
+        "scene": "大家在博物馆里看到罗斯的前妻，乔伊说她有问题。",
+        "example": "He has some anger issues he needs to work on."
+      },
+      {
+        "id": "S01E02-W05",
+        "type": "word",
+        "text": "pregnant",
+        "meaning": "怀孕的",
+        "original": "I'm pregnant.",
+        "scene": "卡罗尔在博物馆里告诉罗斯她怀孕了。",
+        "example": "She found out she was pregnant last week."
+      },
+      {
+        "id": "S01E02-W06",
+        "type": "word",
+        "text": "ex-wife",
+        "meaning": "前妻",
+        "original": "Speaking of issues, isn't that your ex-wife?",
+        "scene": "菲比在博物馆里看到罗斯的前妻卡罗尔，提醒罗斯。",
+        "example": "He remains friends with his ex-wife."
+      },
+      {
+        "id": "S01E02-W07",
+        "type": "word",
+        "text": "paranoid",
+        "meaning": "偏执的，多疑的",
+        "original": "Marty's still totally paranoid.",
+        "scene": "卡罗尔和罗斯寒暄时提到家人玛蒂仍然很多疑。",
+        "example": "Stop being paranoid; no one is following you."
+      },
+      {
+        "id": "S01E02-W08",
+        "type": "word",
+        "text": "misunderstanding",
+        "meaning": "误会",
+        "original": "I think this is the episode of Three's Company where there's some kind of misunderstanding.",
+        "scene": "钱德勒用电视剧里的误会情节来调侃罗斯的处境。",
+        "example": "It was all a misunderstanding, and we're fine now."
+      },
+      {
+        "id": "S01E02-W09",
+        "type": "word",
+        "text": "ammunition",
+        "meaning": "弹药，把柄",
+        "original": "I just don't wanna give them any more ammunition than they already have.",
+        "scene": "莫妮卡紧张地准备迎接父母，不想给他们更多挑剔的把柄。",
+        "example": "Don't give your enemies ammunition to attack you."
+      },
+      {
+        "id": "S01E02-W10",
+        "type": "word",
+        "text": "chaotic",
+        "meaning": "混乱的",
+        "original": "You're like all chaotic and twirly.",
+        "scene": "瑞秋觉得莫妮卡因为父母要来而慌慌张张。",
+        "example": "The kitchen was chaotic during dinner rush."
+      },
+      {
+        "id": "S01E02-W11",
+        "type": "word",
+        "text": "calm down",
+        "meaning": "冷静下来",
+        "original": "Yeah, calm down.",
+        "scene": "大家劝莫妮卡冷静，不要过于紧张父母的到访。",
+        "example": "Calm down, it's not the end of the world."
+      },
+      {
+        "id": "S01E02-W12",
+        "type": "word",
+        "text": "engagement ring",
+        "meaning": "订婚戒指",
+        "original": "Has anybody seen my engagement ring?",
+        "scene": "瑞秋找不到要还给巴瑞的订婚戒指，非常慌张。",
+        "example": "He proposed with a beautiful engagement ring."
+      },
+      {
+        "id": "S01E02-W13",
+        "type": "word",
+        "text": "lasagna",
+        "meaning": "意大利千层面",
+        "original": "You got a beautiful lasagna here that looks good enough to avoid touching.",
+        "scene": "钱德勒调侃莫妮卡做的千层面虽然好看，但不许别人碰。",
+        "example": "My grandmother makes the best lasagna."
+      },
+      {
+        "id": "S01E02-W14",
+        "type": "word",
+        "text": "dread",
+        "meaning": "害怕，担忧",
+        "original": "Oh, like I wasn't dreading tomorrow enough, having to give it back to him...",
+        "scene": "瑞秋本来就害怕明天还戒指给巴瑞，现在戒指还不见了。",
+        "example": "I dread going to the dentist."
+      },
+      {
+        "id": "S01E02-W15",
+        "type": "word",
+        "text": "stomp",
+        "meaning": "重踩，跺脚",
+        "original": "I'm the girl in the veil who stomped on your heart in front of your entire family!",
+        "scene": "瑞秋想象自己还戒指时如何自嘲，说自己践踏了巴瑞的心。",
+        "example": "The angry customer stomped out of the store."
+      },
+      {
+        "id": "S01E02-W16",
+        "type": "word",
+        "text": "perspective",
+        "meaning": "视角，观点",
+        "original": "Kinda puts that whole pillow thing in perspective, huh, Mon?",
+        "scene": "罗斯告诉大家卡罗尔怀孕了，让大家觉得枕头的事根本不算什么。",
+        "example": "Losing my job put things in perspective for me."
+      },
+      {
+        "id": "S01E02-W17",
+        "type": "word",
+        "text": "involved",
+        "meaning": "参与的",
+        "original": "Carol says she and Susan want me to be involved.",
+        "scene": "卡罗尔希望罗斯也参与孩子的生活，但决定权在他。",
+        "example": "He wants to be more involved in his children's education."
+      },
+      {
+        "id": "S01E02-W18",
+        "type": "word",
+        "text": "presumably",
+        "meaning": "大概，据推测",
+        "original": "I mean presumably, the biggest part of your job is done.",
+        "scene": "钱德勒调侃罗斯，说他在怀孕这件事上最大的贡献已经完成了。",
+        "example": "Presumably, she'll arrive around noon."
+      },
+      {
+        "id": "S01E02-W19",
+        "type": "word",
+        "text": "enjoyable",
+        "meaning": "愉快的",
+        "original": "And the most enjoyable.",
+        "scene": "乔伊接着钱德勒的调侃，说那也是最有意思的部分。",
+        "example": "The trip was very enjoyable despite the rain."
+      },
+      {
+        "id": "S01E02-W20",
+        "type": "word",
+        "text": "sonogram",
+        "meaning": "超声波图像",
+        "original": "They want me to go down to this sonogram thing with them tomorrow.",
+        "scene": "卡罗尔和苏珊邀请罗斯一起去做超声波检查。",
+        "example": "We saw the baby on the sonogram for the first time."
+      },
+      {
+        "id": "S01E02-W21",
+        "type": "word",
+        "text": "anecdote",
+        "meaning": "轶事，趣闻",
+        "original": "No news, no little anecdotes to share with the folks?",
+        "scene": "罗斯爸爸问罗斯有没有什么新闻或趣事和父母分享。",
+        "example": "He told a funny anecdote about his first day at work."
+      },
+      {
+        "id": "S01E02-W22",
+        "type": "word",
+        "text": "pros",
+        "meaning": "行家，老手",
+        "original": "These people are pros.",
+        "scene": "钱德勒形容莫妮卡的父母是专业级别的挑剔高手。",
+        "example": "Leave it to the pros; they'll handle it."
+      },
+      {
+        "id": "S01E02-W23",
+        "type": "word",
+        "text": "identical",
+        "meaning": "完全相同的",
+        "original": "Identical? Yeah, people say we look alike.",
+        "scene": "钱德勒提到自己和双胞胎姐姐，大家说她们长得很像。",
+        "example": "The two dresses are identical except for the color."
+      },
+      {
+        "id": "S01E02-W24",
+        "type": "word",
+        "text": "imaginary",
+        "meaning": "想象的，虚构的",
+        "original": "I did have an imaginary friend, who my parents actually preferred.",
+        "scene": "钱德勒自嘲小时候有个假想朋友，父母甚至更喜欢那个朋友。",
+        "example": "Children often have imaginary friends."
+      },
+      {
+        "id": "S01E02-W25",
+        "type": "word",
+        "text": "dump",
+        "meaning": "甩掉，分手",
+        "original": "As someone who's recently been dumped?",
+        "scene": "瑞秋问罗斯还戒指的建议，罗斯说自己刚被甩。",
+        "example": "She dumped him after three months of dating."
+      },
+      {
+        "id": "S01E02-W26",
+        "type": "word",
+        "text": "terrific",
+        "meaning": "极好的",
+        "original": "You should try not to look too terrific, I know it'll be hard.",
+        "scene": "罗斯建议瑞秋还戒指时不要打扮得太好，以免刺激巴瑞。",
+        "example": "You did a terrific job on the presentation."
+      },
+      {
+        "id": "S01E02-W27",
+        "type": "word",
+        "text": "supportive",
+        "meaning": "支持的",
+        "original": "Yes, and she's very supportive.",
+        "scene": "苏珊告诉罗斯，医生了解她们的特殊情况并且很支持。",
+        "example": "My family has always been supportive of my decisions."
+      },
+      {
+        "id": "S01E02-W28",
+        "type": "word",
+        "text": "tanned",
+        "meaning": "晒黑的",
+        "original": "Why are you so tanned?",
+        "scene": "瑞秋见到巴瑞时发现他晒得很黑，原来他去了阿鲁巴。",
+        "example": "She came back from the beach looking tanned."
+      },
+      {
+        "id": "S01E02-W29",
+        "type": "word",
+        "text": "orthodontist",
+        "meaning": "牙齿矫正医生",
+        "original": "And I'm an orthodontist.",
+        "scene": "巴瑞说自己是牙医，言下之意是他本可以伤害瑞秋但忍住了。",
+        "example": "My orthodontist recommended braces for my teeth."
+      },
+      {
+        "id": "S01E02-W30",
+        "type": "word",
+        "text": "nausea",
+        "meaning": "恶心，想吐",
+        "original": "Knock knock! How are we today? Any nausea?",
+        "scene": "医生来给卡罗尔做检查，问她有没有恶心的感觉。",
+        "example": "The medication can cause nausea in some patients."
+      }
+    ],
+    "expressions": [
+      {
+        "id": "S01E02-E01",
+        "type": "expression",
+        "text": "as important as",
+        "meaning": "和……一样重要",
+        "original": "For us, kissing is as important as any part of it.",
+        "scene": "瑞秋向男生们解释，接吻对女生来说和亲密关系其他部分一样重要。",
+        "example": "Exercise is as important as a healthy diet."
+      },
+      {
+        "id": "S01E02-E02",
+        "type": "expression",
+        "text": "word of advice",
+        "meaning": "一句忠告",
+        "original": "Yeah, well, word of advice: Bring back the comedian.",
+        "scene": "瑞秋建议男生们要多接吻，就像让暖场喜剧演员返场一样。",
+        "example": "Let me give you a word of advice: always save your work."
+      },
+      {
+        "id": "S01E02-E03",
+        "type": "expression",
+        "text": "catch up with",
+        "meaning": "与……碰面/叙旧",
+        "original": "How about I'll catch up with you in the Ice Age?",
+        "scene": "罗斯不想和朋友一起面对卡罗尔，说冰河世纪再碰面吧。",
+        "example": "I'll catch up with you later for coffee."
+      },
+      {
+        "id": "S01E02-E04",
+        "type": "expression",
+        "text": "through with",
+        "meaning": "用完……",
+        "original": "Are you through with that?",
+        "scene": "罗斯想拿走卡罗尔喝完的饮料杯，问她是否喝完了。",
+        "example": "Are you through with the newspaper? I'd like to read it."
+      },
+      {
+        "id": "S01E02-E05",
+        "type": "expression",
+        "text": "give it back",
+        "meaning": "归还",
+        "original": "Having to give it back to him...",
+        "scene": "瑞秋发愁明天要把订婚戒指还给巴瑞。",
+        "example": "Please give it back when you're done reading."
+      },
+      {
+        "id": "S01E02-E06",
+        "type": "expression",
+        "text": "take the heat off",
+        "meaning": "减轻压力/转移火力",
+        "original": "Because I think it might take some of the heat off me.",
+        "scene": "莫妮卡希望罗斯说出卡罗尔怀孕的事，让父母不再盯着自己挑剔。",
+        "example": "His apology took some of the heat off the company."
+      },
+      {
+        "id": "S01E02-E07",
+        "type": "expression",
+        "text": "run into",
+        "meaning": "偶遇",
+        "original": "We ran into her parents at the club, they were not playing very well.",
+        "scene": "莫妮卡妈妈提到在俱乐部偶遇瑞秋父母，他们对婚礼的事很不高兴。",
+        "example": "I ran into an old classmate at the supermarket."
+      },
+      {
+        "id": "S01E02-E08",
+        "type": "expression",
+        "text": "shoot for the stars",
+        "meaning": "志存高远",
+        "original": "People like Ross who need to shoot for the stars, with his museum, and his papers getting published.",
+        "scene": "莫妮卡爸爸夸奖罗斯有远大抱负，在博物馆工作并发表学术论文。",
+        "example": "Don't be afraid to shoot for the stars in your career."
+      },
+      {
+        "id": "S01E02-E09",
+        "type": "expression",
+        "text": "roll with the punches",
+        "meaning": "见招拆招，随机应变",
+        "original": "Things change, roll with the punches.",
+        "scene": "苏珊劝罗斯接受现实，生活总会变化，要学会应对。",
+        "example": "Life is unpredictable, so learn to roll with the punches."
+      },
+      {
+        "id": "S01E02-E10",
+        "type": "expression",
+        "text": "get over it",
+        "meaning": "恢复过来，放下",
+        "original": "Well, he's a big boy, he'll get over it.",
+        "scene": "瑞秋担心和艾伦分手会伤害他，莫妮卡说他是个大人会走出来的。",
+        "example": "I know you're upset, but you'll get over it soon."
+      }
+    ]
+  },
+  "S01E03": {
+    "title": "The One with the Thumb",
+    "zh_title": "大拇指事件",
+    "words": [
+      {
+        "id": "S01E03-W01",
+        "type": "word",
+        "text": "subway",
+        "meaning": "地铁",
+        "original": "He walked me to the subway and said 'We should do this again!''",
+        "scene": "菲比告诉大家约会对象送她到地铁站，说了句客套话。",
+        "example": "I take the subway to work every morning."
+      },
+      {
+        "id": "S01E03-W02",
+        "type": "word",
+        "text": "loosely",
+        "meaning": "粗略地，宽松地",
+        "original": "Loosely translated 'We should do this again' means 'You will never see me naked'.'",
+        "scene": "菲比解释约会用语，说'改天再约'其实是不会再见了。",
+        "example": "This is a loosely based adaptation of the novel."
+      },
+      {
+        "id": "S01E03-W03",
+        "type": "word",
+        "text": "alcoholic",
+        "meaning": "酗酒者",
+        "original": "I'm gonna be dating leather-wearing alcoholics and complaining about them to you.",
+        "scene": "菲比解释'你人很好'的潜台词，暗示会去找别人约会。",
+        "example": "He realized he was becoming an alcoholic and sought help."
+      },
+      {
+        "id": "S01E03-W04",
+        "type": "word",
+        "text": "cushion",
+        "meaning": "缓冲，减轻",
+        "original": "Cushions the blow.",
+        "scene": "菲比说这些委婉语是为了缓和拒绝带来的打击。",
+        "example": "A soft chair will cushion your fall."
+      },
+      {
+        "id": "S01E03-W05",
+        "type": "word",
+        "text": "blow",
+        "meaning": "打击",
+        "original": "Cushions the blow.",
+        "scene": "菲比解释约会时说好听话是为了让对方更容易接受被拒绝的打击。",
+        "example": "Losing the game was a big blow to the team."
+      },
+      {
+        "id": "S01E03-W06",
+        "type": "word",
+        "text": "chase",
+        "meaning": "追逐",
+        "original": "They had this unbelievable farm, and horses, and rabbits that he could chase.",
+        "scene": "罗斯回忆小时候家里的狗被送到农场，可以追兔子的美好画面。",
+        "example": "The kids love to chase each other in the yard."
+      },
+      {
+        "id": "S01E03-W07",
+        "type": "word",
+        "text": "ridiculous",
+        "meaning": "荒谬的",
+        "original": "That's ridiculous!",
+        "scene": "乔伊听说可以用拇指尖到食指尖的距离判断某个尺寸，觉得很荒谬。",
+        "example": "That's a ridiculous idea; it will never work."
+      },
+      {
+        "id": "S01E03-W08",
+        "type": "word",
+        "text": "decaf",
+        "meaning": "无咖啡因咖啡",
+        "original": "Decaf cappuccino for Joey.",
+        "scene": "瑞秋当服务员越来越熟练，准确说出大家的咖啡订单。",
+        "example": "I'll have a decaf latte, please."
+      },
+      {
+        "id": "S01E03-W09",
+        "type": "word",
+        "text": "statement",
+        "meaning": "账单，结算单",
+        "original": "I'm going through my mail, and I open up their monthly, you know, STATEMENT.",
+        "scene": "菲比查看银行每月寄来的账单，发现账户多了五百美元。",
+        "example": "I check my bank statement every month."
+      },
+      {
+        "id": "S01E03-W10",
+        "type": "word",
+        "text": "account",
+        "meaning": "账户",
+        "original": "There's five hundred extra dollars in my account.",
+        "scene": "菲比发现银行账户里莫名其妙多了五百美元。",
+        "example": "I opened a savings account at the bank."
+      },
+      {
+        "id": "S01E03-W11",
+        "type": "word",
+        "text": "earn",
+        "meaning": "挣得，赚取",
+        "original": "It's not mine, I didn't earn it.",
+        "scene": "菲比认为多出来的钱不是她赚的，所以不能要。",
+        "example": "She earns a good salary as a software engineer."
+      },
+      {
+        "id": "S01E03-W12",
+        "type": "word",
+        "text": "debt",
+        "meaning": "债务",
+        "original": "It would be like this giant karmic debt.",
+        "scene": "菲比说如果把不属于自己的钱花掉，会欠下巨大的因果债。",
+        "example": "He worked hard to pay off his student debt."
+      },
+      {
+        "id": "S01E03-W13",
+        "type": "word",
+        "text": "quit",
+        "meaning": "戒烟，放弃",
+        "original": "Think about what you went through the last time you quit.",
+        "scene": "大家劝钱德勒想想上次戒烟有多痛苦，不要重新开始抽烟。",
+        "example": "He decided to quit smoking for his health."
+      },
+      {
+        "id": "S01E03-W14",
+        "type": "word",
+        "text": "reward",
+        "meaning": "奖励",
+        "original": "You've been so good, for three years! And this is my reward!",
+        "scene": "钱德勒重新开始抽烟，自嘲这是自己三年不抽烟的'奖励'。",
+        "example": "Getting a bonus was a nice reward for all my hard work."
+      },
+      {
+        "id": "S01E03-W15",
+        "type": "word",
+        "text": "figure out",
+        "meaning": "弄清楚，想明白",
+        "original": "Just give me a chance to figure that out.",
+        "scene": "莫妮卡说还需要时间想清楚自己对艾伦的感觉。",
+        "example": "I need to figure out how to fix this computer."
+      },
+      {
+        "id": "S01E03-W16",
+        "type": "word",
+        "text": "coyote",
+        "meaning": "土狼，丛林狼",
+        "original": "They're like coyotes, picking off the weak members of the herd.",
+        "scene": "莫妮卡形容朋友们看到她带男人回家就会像土狼一样扑上去。",
+        "example": "Coyotes are often heard howling at night in the desert."
+      },
+      {
+        "id": "S01E03-W17",
+        "type": "word",
+        "text": "herd",
+        "meaning": "兽群，畜群",
+        "original": "Picking off the weak members of the herd.",
+        "scene": "莫妮卡比喻朋友们专挑她带回家的男生中的'弱者'围攻。",
+        "example": "A herd of cows was grazing in the field."
+      },
+      {
+        "id": "S01E03-W18",
+        "type": "word",
+        "text": "odds",
+        "meaning": "几率，可能性",
+        "original": "Well, you do realise that the odds of that happening are a little slimmer.",
+        "scene": "钱德勒指出如果不让朋友见艾伦，他们喜欢他的几率就更小了。",
+        "example": "The odds of winning the lottery are very low."
+      },
+      {
+        "id": "S01E03-W19",
+        "type": "word",
+        "text": "slim",
+        "meaning": "渺茫的，微小的",
+        "original": "The odds of that happening are a little slimmer.",
+        "scene": "钱德勒说如果朋友们见不到艾伦，他们喜欢上他的可能性就更渺茫。",
+        "example": "His chances of getting the job are slim."
+      },
+      {
+        "id": "S01E03-W20",
+        "type": "word",
+        "text": "whimper",
+        "meaning": "呜咽，啜泣",
+        "original": "Can't I whimper a little bit?",
+        "scene": "莫妮卡被大家说服，但还是想小声哭一下。",
+        "example": "The puppy began to whimper when left alone."
+      },
+      {
+        "id": "S01E03-W21",
+        "type": "word",
+        "text": "crooked",
+        "meaning": "弯曲的，歪斜的",
+        "original": "The way his smile was kinda crooked.",
+        "scene": "大家夸艾伦笑起来有点歪，非常迷人。",
+        "example": "The picture on the wall is a little crooked."
+      },
+      {
+        "id": "S01E03-W22",
+        "type": "word",
+        "text": "nursery rhyme",
+        "meaning": "童谣",
+        "original": "From the nursery rhyme.",
+        "scene": "钱德勒提到一首童谣里有个歪歪的男人，来形容艾伦的笑容。",
+        "example": "She sang a nursery rhyme to her baby."
+      },
+      {
+        "id": "S01E03-W23",
+        "type": "word",
+        "text": "yardstick",
+        "meaning": "准绳，衡量标准",
+        "original": "I think Alan will become the yardstick against which all future boyfriends will be measured.",
+        "scene": "菲比说艾伦会成为以后衡量莫妮卡所有男友的标准。",
+        "example": "Good customer service should be the yardstick for every business."
+      },
+      {
+        "id": "S01E03-W24",
+        "type": "word",
+        "text": "softball",
+        "meaning": "垒球",
+        "original": "We sure showed those Hassidic jewellers a thing or two about softball.",
+        "scene": "大家和艾伦一起打垒球并赢了比赛，非常兴奋。",
+        "example": "Our company has a softball team that plays every Thursday."
+      },
+      {
+        "id": "S01E03-W25",
+        "type": "word",
+        "text": "innate",
+        "meaning": "天生的，固有的",
+        "original": "Yeah, it's his, uh, innate Alan-ness that we adore.",
+        "scene": "大家调侃莫妮卡，说她们喜欢的是艾伦天生的艾伦气质。",
+        "example": "She has an innate talent for music."
+      },
+      {
+        "id": "S01E03-W26",
+        "type": "word",
+        "text": "adore",
+        "meaning": "喜爱，崇拜",
+        "original": "It's his innate Alan-ness that we adore.",
+        "scene": "朋友们都非常喜欢艾伦，夸他内在的特质。",
+        "example": "I adore the way she laughs."
+      },
+      {
+        "id": "S01E03-W27",
+        "type": "word",
+        "text": "vowel",
+        "meaning": "元音",
+        "original": "Did you pick out the vowels?",
+        "scene": "菲比给街头女孩莉琪带字母汤，问她是否挑出了元音字母。",
+        "example": "A, E, I, O, U are the vowels in English."
+      },
+      {
+        "id": "S01E03-W28",
+        "type": "word",
+        "text": "pretzel",
+        "meaning": "椒盐卷饼",
+        "original": "Sure you don't wanna pretzel?",
+        "scene": "莉琪问菲比要不要买个椒盐卷饼。",
+        "example": "I bought a soft pretzel at the mall."
+      },
+      {
+        "id": "S01E03-W29",
+        "type": "word",
+        "text": "flaw",
+        "meaning": "缺点，瑕疵",
+        "original": "So I have a flaw! Big deal?",
+        "scene": "钱德勒因为抽烟被大家批评，辩解说每个人都有缺点。",
+        "example": "Perfectionism can be both a strength and a flaw."
+      },
+      {
+        "id": "S01E03-W30",
+        "type": "word",
+        "text": "underwear",
+        "meaning": "内衣",
+        "original": "Even nicer when everyone gets to wear their underwear.",
+        "scene": "莫妮卡感慨大家聚在一起真好，钱德勒调侃要是都穿着内衣就更好了。",
+        "example": "Don't forget to pack clean underwear for the trip."
+      }
+    ],
+    "expressions": [
+      {
+        "id": "S01E03-E01",
+        "type": "expression",
+        "text": "do this again",
+        "meaning": "再来一次（客套话）",
+        "original": "He walked me to the subway and said 'We should do this again!''",
+        "scene": "菲比说约会对象送她到地铁站时说'改天再约'，其实是不会再见了。",
+        "example": "The dinner was fun; we should do this again sometime."
+      },
+      {
+        "id": "S01E03-E02",
+        "type": "expression",
+        "text": "It's not you",
+        "meaning": "不是你的问题（分手借口）",
+        "original": "Like 'It's not you' means 'It is you'.'",
+        "scene": "菲比解释约会暗语，说'不是你的问题'其实意思就是'就是你'。",
+        "example": "When he said 'It's not you, it's me,' I knew he was lying."
+      },
+      {
+        "id": "S01E03-E03",
+        "type": "expression",
+        "text": "cushion the blow",
+        "meaning": "缓和打击",
+        "original": "Cushions the blow.",
+        "scene": "菲比解释人们说委婉话是为了让对方更容易接受坏消息。",
+        "example": "He offered me a small bonus to cushion the blow of the pay cut."
+      },
+      {
+        "id": "S01E03-E04",
+        "type": "expression",
+        "text": "put out",
+        "meaning": "熄灭",
+        "original": "Put it out!",
+        "scene": "钱德勒又开始抽烟，大家让他把烟熄灭。",
+        "example": "Please put out your cigarette before entering the building."
+      },
+      {
+        "id": "S01E03-E05",
+        "type": "expression",
+        "text": "keep the change",
+        "meaning": "不用找了",
+        "original": "Keep the change.",
+        "scene": "菲比请莉琪喝汽水，剩下的零钱给她当小费。",
+        "example": "Here's ten dollars; keep the change."
+      },
+      {
+        "id": "S01E03-E06",
+        "type": "expression",
+        "text": "all over",
+        "meaning": "团团围住，纠缠",
+        "original": "I bring a guy home, and within five minutes they're all over him.",
+        "scene": "莫妮卡抱怨每次带男人回家，朋友们五分钟内就会围上去。",
+        "example": "The fans were all over the celebrity as soon as he arrived."
+      },
+      {
+        "id": "S01E03-E07",
+        "type": "expression",
+        "text": "let it go",
+        "meaning": "放手，别再想",
+        "original": "Joey, let it go.",
+        "scene": "乔伊缠着莫妮卡想见艾伦，莫妮卡让他别再提了。",
+        "example": "I know you're angry, but you need to let it go."
+      },
+      {
+        "id": "S01E03-E08",
+        "type": "expression",
+        "text": "break up with",
+        "meaning": "和……分手",
+        "original": "I've decided to break up with Alan.",
+        "scene": "莫妮卡终于告诉朋友们她决定和艾伦分手。",
+        "example": "She broke up with her boyfriend last weekend."
+      },
+      {
+        "id": "S01E03-E09",
+        "type": "expression",
+        "text": "get over it",
+        "meaning": "恢复过来，放下",
+        "original": "Well, he's a big boy, he'll get over it.",
+        "scene": "莫妮卡担心艾伦难过，钱德勒说他是个大人会走出来的。",
+        "example": "It took him months to get over the breakup."
+      },
+      {
+        "id": "S01E03-E10",
+        "type": "expression",
+        "text": "back to work",
+        "meaning": "回去工作",
+        "original": "I should really get back to work.",
+        "scene": "瑞秋说该回去继续当服务员工作了，钱德勒调侃说她会让客人拿到真正点的东西。",
+        "example": "Lunch is over; let's get back to work."
+      }
+    ]
+  }
+}

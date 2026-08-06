@@ -1,0 +1,1474 @@
+{
+  "S01E04": {
+    "title": "The One with George Stephanopoulos",
+    "zh_title": "乔治·史蒂法诺普洛斯之夜",
+    "words": [
+      {
+        "id": "S01E04-W01",
+        "type": "word",
+        "text": "omnipotent",
+        "meaning": "全能的，无所不能的",
+        "original": "If I were omnipotent for a day, I would want world peace, no more hunger...",
+        "scene": "大家在咖啡馆讨论如果变得全能会许什么愿望。",
+        "example": "In the story, the wizard was omnipotent and could do anything."
+      },
+      {
+        "id": "S01E04-W02",
+        "type": "word",
+        "text": "peaceful",
+        "meaning": "平静的，安详的",
+        "original": "Would you look at her? She is so peaceful.",
+        "scene": "瑞秋在沙发上睡着，莫妮卡说她看起来很安详。",
+        "example": "The lake was so peaceful in the early morning."
+      },
+      {
+        "id": "S01E04-W03",
+        "type": "word",
+        "text": "nod off",
+        "meaning": "打瞌睡",
+        "original": "It's okay, you just nodded off again.",
+        "scene": "瑞秋在咖啡馆里不停打瞌睡，朋友们安慰她。",
+        "example": "I nodded off during the boring lecture."
+      },
+      {
+        "id": "S01E04-W04",
+        "type": "word",
+        "text": "insecure",
+        "meaning": "不自信的，不安的",
+        "original": "My grandmother has a new boyfriend, and they're both kind of insecure in bed.",
+        "scene": "菲比解释自己为什么睡不着，因为奶奶和新男友都很没自信。",
+        "example": "He feels insecure about speaking in public."
+      },
+      {
+        "id": "S01E04-W05",
+        "type": "word",
+        "text": "reassure",
+        "meaning": "使安心，使打消疑虑",
+        "original": "So they're constantly having to reassure each other that they're having a good time.",
+        "scene": "菲比说奶奶和男友不断互相确认对方是否开心。",
+        "example": "She called to reassure me that everything was fine."
+      },
+      {
+        "id": "S01E04-W06",
+        "type": "word",
+        "text": "paycheck",
+        "meaning": "薪水支票，工资",
+        "original": "Look, my first paycheck! Look at the window, there's my name!",
+        "scene": "瑞秋兴奋地展示自己人生中第一份薪水支票。",
+        "example": "I can't wait to get my paycheck this Friday."
+      },
+      {
+        "id": "S01E04-W07",
+        "type": "word",
+        "text": "wipe",
+        "meaning": "擦，抹",
+        "original": "I wiped tables for it, I steamed milk for it, and it was totally not worth it.",
+        "scene": "瑞秋抱怨自己擦桌子、热牛奶赚来的工资根本不值得。",
+        "example": "Please wipe the counter after you make dinner."
+      },
+      {
+        "id": "S01E04-W08",
+        "type": "word",
+        "text": "promote",
+        "meaning": "晋升，升职",
+        "original": "Everyone I know is either getting married, or getting pregnant, or getting promoted, and I'm getting coffee!",
+        "scene": "瑞秋对信用卡客服发泄，说朋友们都在结婚怀孕升职，而她只能端咖啡。",
+        "example": "She was promoted to manager after three years."
+      },
+      {
+        "id": "S01E04-W09",
+        "type": "word",
+        "text": "apron",
+        "meaning": "围裙",
+        "original": "Look at you in the apron. You look like you're in a play.",
+        "scene": "瑞秋的朋友来咖啡馆看到她穿着围裙当服务生。",
+        "example": "He put on an apron before he started cooking."
+      },
+      {
+        "id": "S01E04-W10",
+        "type": "word",
+        "text": "phenomenal",
+        "meaning": "了不起的，非凡的",
+        "original": "Kiki, you look phenomenal. I mean, you've lost like a ton of weight.",
+        "scene": "瑞秋的朋友琦琦怀孕，另一个朋友夸她状态非凡。",
+        "example": "The band gave a phenomenal performance last night."
+      },
+      {
+        "id": "S01E04-W11",
+        "type": "word",
+        "text": "partner",
+        "meaning": "合伙人，搭档",
+        "original": "Guess who my dad's making partner in his firm?",
+        "scene": "瑞秋的朋友们互相炫耀家里的事业和好消息。",
+        "example": "He became a partner at the law firm this year."
+      },
+      {
+        "id": "S01E04-W12",
+        "type": "word",
+        "text": "dump",
+        "meaning": "甩掉，抛弃",
+        "original": "Well, the biggest news is still you dumping Barry at the altar!",
+        "scene": "朋友们聊起瑞秋在圣坛前抛弃巴瑞的八卦。",
+        "example": "She dumped her boyfriend after he lied to her."
+      },
+      {
+        "id": "S01E04-W13",
+        "type": "word",
+        "text": "altar",
+        "meaning": "圣坛，祭坛",
+        "original": "Well, the biggest news is still you dumping Barry at the altar!",
+        "scene": "朋友们聊起瑞秋在婚礼圣坛前逃跑的八卦。",
+        "example": "They exchanged rings at the altar."
+      },
+      {
+        "id": "S01E04-W14",
+        "type": "word",
+        "text": "laundry",
+        "meaning": "洗衣，要洗的衣物",
+        "original": "I even do my own laundry.",
+        "scene": "瑞秋向朋友证明自己独立，说自己甚至自己洗衣服。",
+        "example": "I have to do laundry this weekend."
+      },
+      {
+        "id": "S01E04-W15",
+        "type": "word",
+        "text": "vase",
+        "meaning": "花瓶",
+        "original": "I take the dead flowers out of the vase.",
+        "scene": "瑞秋列举自己在咖啡馆的工作内容，包括清理花瓶里的枯花。",
+        "example": "She put the fresh flowers in a glass vase."
+      },
+      {
+        "id": "S01E04-W16",
+        "type": "word",
+        "text": "slumber party",
+        "meaning": "睡衣派对",
+        "original": "We thought since Phoebe was staying over tonight we'd have kinda like a slumber party thing.",
+        "scene": "莫妮卡提议菲比来借住，大家办一个睡衣派对。",
+        "example": "The girls had a slumber party and stayed up all night talking."
+      },
+      {
+        "id": "S01E04-W17",
+        "type": "word",
+        "text": "trashy",
+        "meaning": "低俗的，八卦的",
+        "original": "We got some trashy magazines, we got cookie dough, we got Twister...",
+        "scene": "莫妮卡准备睡衣派对的东西，包括八卦杂志和饼干面团。",
+        "example": "She loves reading trashy magazines at the beach."
+      },
+      {
+        "id": "S01E04-W18",
+        "type": "word",
+        "text": "dough",
+        "meaning": "面团",
+        "original": "We got some trashy magazines, we got cookie dough, we got Twister...",
+        "scene": "莫妮卡列举睡衣派对的食物，包括曲奇饼干面团。",
+        "example": "I made pizza dough from scratch last night."
+      },
+      {
+        "id": "S01E04-W19",
+        "type": "word",
+        "text": "tweezers",
+        "meaning": "镊子",
+        "original": "I brought Operation! But I lost the tweezers, so we can't operate.",
+        "scene": "菲比带了桌游 Operation，但镊子丢了没法做手术。",
+        "example": "I need tweezers to pull out this splinter."
+      },
+      {
+        "id": "S01E04-W20",
+        "type": "word",
+        "text": "account",
+        "meaning": "账户",
+        "original": "They say there's been some unusual activity on your account.",
+        "scene": "信用卡公司打电话来说瑞秋的账户有异常活动。",
+        "example": "I need to check my bank account balance."
+      },
+      {
+        "id": "S01E04-W21",
+        "type": "word",
+        "text": "bonehead",
+        "meaning": "笨蛋，傻瓜",
+        "original": "Oh, bonehead, bonehead! When you do that, you're only hitting yourself.",
+        "scene": "披萨小弟送错披萨后捶自己头，乔伊说他是笨蛋。",
+        "example": "Don't be such a bonehead—read the instructions first."
+      },
+      {
+        "id": "S01E04-W22",
+        "type": "word",
+        "text": "stunning",
+        "meaning": "极好的，极美的",
+        "original": "Was he wearing a stunning blue suit and a power tie?",
+        "scene": "瑞秋幻想乔治·史蒂法诺普洛斯穿着帅气的蓝西装。",
+        "example": "You look stunning in that dress."
+      },
+      {
+        "id": "S01E04-W23",
+        "type": "word",
+        "text": "adviser",
+        "meaning": "顾问",
+        "original": "White House adviser? Clinton's campaign guy?",
+        "scene": "大家讨论街对面住的是克林顿的竞选顾问。",
+        "example": "He works as a financial adviser for the company."
+      },
+      {
+        "id": "S01E04-W24",
+        "type": "word",
+        "text": "butt",
+        "meaning": "屁股",
+        "original": "The one with the great hair, sexy smile, really cute butt?",
+        "scene": "菲比和瑞秋描述乔治·史蒂法诺普洛斯迷人的外貌。",
+        "example": "He fell and hurt his butt on the ice."
+      },
+      {
+        "id": "S01E04-W25",
+        "type": "word",
+        "text": "preppy",
+        "meaning": "预科生风格的，名牌高校的",
+        "original": "I think you have to draw him out. And then when you do, he's a preppy animal.",
+        "scene": "女孩们幻想乔治·史蒂法诺普洛斯的真实性格。",
+        "example": "He dresses in a classic preppy style with polo shirts."
+      },
+      {
+        "id": "S01E04-W26",
+        "type": "word",
+        "text": "tender",
+        "meaning": "温柔的，体贴的",
+        "original": "One time, he helped me put on my coat, and he was really tender.",
+        "scene": "莫妮卡回忆乔伊帮她穿外套时很温柔。",
+        "example": "He gave her a tender look before leaving."
+      },
+      {
+        "id": "S01E04-W27",
+        "type": "word",
+        "text": "sophisticated",
+        "meaning": "成熟的，世故的",
+        "original": "I have a feeling that Chandler is a lot more sophisticated than he seems.",
+        "scene": "女孩们讨论钱德勒其实比看起来更有深度。",
+        "example": "She has very sophisticated taste in wine and art."
+      },
+      {
+        "id": "S01E04-W28",
+        "type": "word",
+        "text": "puck",
+        "meaning": "冰球",
+        "original": "Where's my puck?",
+        "scene": "罗斯在冰球比赛后发现自己拿到的冰球不见了。",
+        "example": "The player shot the puck into the goal."
+      },
+      {
+        "id": "S01E04-W29",
+        "type": "word",
+        "text": "freak",
+        "meaning": "怪人，怪胎",
+        "original": "The guy's a freak. I judge him.",
+        "scene": "乔伊得知罗斯只和一个女人上过床后觉得他是怪胎。",
+        "example": "Some people call him a freak because he dresses differently."
+      },
+      {
+        "id": "S01E04-W30",
+        "type": "word",
+        "text": "Monopoly",
+        "meaning": "大富翁（桌游）；垄断",
+        "original": "Could've played Monopoly, but nooooo.",
+        "scene": "大家在玩扭扭乐，罗斯抱怨本来可以玩大富翁。",
+        "example": "We spent the whole afternoon playing Monopoly."
+      }
+    ],
+    "expressions": [
+      {
+        "id": "S01E04-E01",
+        "type": "expression",
+        "text": "There's always one guy.",
+        "meaning": "总有这么一个人。",
+        "original": "See, there's always one guy.",
+        "scene": "钱德勒说如果自己能全能一天，就会让自己永远全能，乔伊吐槽总有这种人。",
+        "example": "Every group project has that one person who does nothing—there's always one guy."
+      },
+      {
+        "id": "S01E04-E02",
+        "type": "expression",
+        "text": "Excuse me?",
+        "meaning": "你说什么？/请再说一遍？（表示惊讶或不满）",
+        "original": "Probably kill myself! ..Excuse me?",
+        "scene": "乔伊误以为 omnipotent 是别的意思，说要自杀，罗斯惊讶地问“什么？”。",
+        "example": "Excuse me? I can't believe you just said that."
+      },
+      {
+        "id": "S01E04-E03",
+        "type": "expression",
+        "text": "What's going on with you?",
+        "meaning": "你怎么了？/你最近怎么回事？",
+        "original": "What's going on with you? I got no sleep last night!",
+        "scene": "莫妮卡看到瑞秋状态不好，问她怎么了。",
+        "example": "You look tired. What's going on with you?"
+      },
+      {
+        "id": "S01E04-E04",
+        "type": "expression",
+        "text": "pass on",
+        "meaning": "放弃，不参加",
+        "original": "You know what, I'd better pass on the game.",
+        "scene": "罗斯因为想起和卡罗尔的纪念日，决定不去看冰球赛。",
+        "example": "I'll pass on dessert tonight, I'm too full."
+      },
+      {
+        "id": "S01E04-E05",
+        "type": "expression",
+        "text": "The hell with...",
+        "meaning": "去他的……，管它的……",
+        "original": "The hell with hockey, let's all do that!",
+        "scene": "钱德勒讽刺地说去他的冰球，大家一起去想前妻吧。",
+        "example": "The hell with waiting in line—let's go home."
+      },
+      {
+        "id": "S01E04-E06",
+        "type": "expression",
+        "text": "take my mind off",
+        "meaning": "让我暂时忘记",
+        "original": "Alright, maybe it'll take my mind off it.",
+        "scene": "罗斯同意去看冰球，希望比赛能让他暂时忘记卡罗尔。",
+        "example": "Going for a run helps take my mind off stress."
+      },
+      {
+        "id": "S01E04-E07",
+        "type": "expression",
+        "text": "You got it.",
+        "meaning": "没问题，一言为定。",
+        "original": "Do you promise to buy me a big thumb finger? You got it.",
+        "scene": "钱德勒答应罗斯会给他买个大手指道具。",
+        "example": "Can you help me move this box? You got it."
+      },
+      {
+        "id": "S01E04-E08",
+        "type": "expression",
+        "text": "not worth it",
+        "meaning": "不值得",
+        "original": "I wiped tables for it, I steamed milk for it, and it was totally not worth it.",
+        "scene": "瑞秋拿到第一份工资后觉得辛苦工作根本不值得。",
+        "example": "The argument got so heated that it just wasn't worth it."
+      },
+      {
+        "id": "S01E04-E09",
+        "type": "expression",
+        "text": "all things considered",
+        "meaning": "综合考虑一切因素",
+        "original": "All things considered, you had fun tonight.",
+        "scene": "钱德勒劝罗斯承认，综合来说今晚他还是玩得开心。",
+        "example": "All things considered, the party went really well."
+      },
+      {
+        "id": "S01E04-E10",
+        "type": "expression",
+        "text": "Finders keepers, losers weepers.",
+        "meaning": "谁先找到归谁，后到没得。",
+        "original": "Finders keepers, losers weepers.",
+        "scene": "小孩捡到罗斯的冰球不肯还，说先到先得。",
+        "example": "I found this dollar on the ground—finders keepers, losers weepers."
+      }
+    ]
+  },
+  "S01E05": {
+    "title": "The One with the East German Laundry Detergent",
+    "zh_title": "东德洗衣粉",
+    "words": [
+      {
+        "id": "S01E05-W01",
+        "type": "word",
+        "text": "maneuver",
+        "meaning": "动作， maneuver",
+        "original": "You just reach in there, there's one little maneuver, and bam, a bra right out the sleeve.",
+        "scene": "菲比展示她能把胸罩从袖子里抽出来的神奇动作。",
+        "example": "The driver made a quick maneuver to avoid the bicycle."
+      },
+      {
+        "id": "S01E05-W02",
+        "type": "word",
+        "text": "awkward",
+        "meaning": "尴尬的，笨拙的",
+        "original": "There's the horrible awkward moment when you've handed her the note.",
+        "scene": "钱德勒形容分手时把纸条递给对方的尴尬时刻。",
+        "example": "There was an awkward silence after his joke fell flat."
+      },
+      {
+        "id": "S01E05-W03",
+        "type": "word",
+        "text": "gang up on",
+        "meaning": "联合起来对付",
+        "original": "I think she'd feel like we're gangin' up on her.",
+        "scene": "钱德勒担心如果大家一起去和珍妮斯分手，她会感觉被围攻。",
+        "example": "The older kids ganged up on him and took his lunch money."
+      },
+      {
+        "id": "S01E05-W04",
+        "type": "word",
+        "text": "dump",
+        "meaning": "甩了（某人），分手",
+        "original": "You're breaking up with Tony? Yeah, I know, he's sweet, but it's just not fun anymore.",
+        "scene": "莫妮卡提到自己和托尼分手，瑞秋惊讶。",
+        "example": "She dumped him after three months of dating."
+      },
+      {
+        "id": "S01E05-W05",
+        "type": "word",
+        "text": "hunger strike",
+        "meaning": "绝食抗议",
+        "original": "I don't know if it's me, or his hunger strike, or I don't know.",
+        "scene": "莫妮卡说和托尼分手可能是因为他的绝食抗议。",
+        "example": "The prisoners went on a hunger strike to demand better conditions."
+      },
+      {
+        "id": "S01E05-W06",
+        "type": "word",
+        "text": "nutty",
+        "meaning": "多坚果的，古怪的",
+        "original": "Last week you had a wonderful, nutty, chocolatey kind of a cakey pie thing.",
+        "scene": "顾客在咖啡馆里向瑞秋形容上周吃的坚果巧克力派。",
+        "example": "This cookie has a rich, nutty flavor."
+      },
+      {
+        "id": "S01E05-W07",
+        "type": "word",
+        "text": "convertible",
+        "meaning": "敞篷车",
+        "original": "It's my father. He wants to give me a Mercedes convertible.",
+        "scene": "瑞秋说爸爸想用奔驰敞篷车诱惑她搬回家。",
+        "example": "He drove down the coast in a red convertible."
+      },
+      {
+        "id": "S01E05-W08",
+        "type": "word",
+        "text": "extended",
+        "meaning": "延长的，加长的",
+        "original": "Actually, I got the extended disco version, with three choruses of 'You'll never make it on your own'.",
+        "scene": "瑞秋形容爸爸又对她长篇大论地说她无法独立生活。",
+        "example": "The movie has an extended version with extra scenes."
+      },
+      {
+        "id": "S01E05-W09",
+        "type": "word",
+        "text": "chorus",
+        "meaning": "合唱部分，副歌",
+        "original": "Actually, I got the extended disco version, with three choruses of 'You'll never make it on your own'.",
+        "scene": "瑞秋用“副歌重复三遍”来形容爸爸的唠叨。",
+        "example": "Everyone sang along to the chorus of the song."
+      },
+      {
+        "id": "S01E05-W10",
+        "type": "word",
+        "text": "agree with",
+        "meaning": "对……有好处，适合",
+        "original": "Wow, being dumped by you obviously agrees with her.",
+        "scene": "乔伊看到前女友安吉拉变得更漂亮，说被乔伊甩掉显然对她很好。",
+        "example": "This warm weather really agrees with me."
+      },
+      {
+        "id": "S01E05-W11",
+        "type": "word",
+        "text": "eager",
+        "meaning": "急切的，渴望的",
+        "original": "I don't wanna seem too eager.",
+        "scene": "乔伊想去和前女友打招呼，但又不想显得太急切。",
+        "example": "The students were eager to hear the exam results."
+      },
+      {
+        "id": "S01E05-W12",
+        "type": "word",
+        "text": "accent",
+        "meaning": "突出，强调",
+        "original": "That's because I'm wearing a dress that accents my boobs.",
+        "scene": "安吉拉说自己的裙子很显胸。",
+        "example": "The red scarf accents the color of her eyes."
+      },
+      {
+        "id": "S01E05-W13",
+        "type": "word",
+        "text": "glamour",
+        "meaning": "魅力，华丽",
+        "original": "Oh, big glamour night. Me and Monica at Laundorama.",
+        "scene": "瑞秋讽刺地说今晚很精彩，要和莫妮卡去洗衣店。",
+        "example": "The actress brought old Hollywood glamour to the event."
+      },
+      {
+        "id": "S01E05-W14",
+        "type": "word",
+        "text": "coincidence",
+        "meaning": "巧合",
+        "original": "You wanna hear a freaky coincidence? Guess who's doing laundry there too?",
+        "scene": "罗斯假装巧合也要去同一家洗衣店，制造和瑞秋独处的机会。",
+        "example": "What a coincidence! I was just thinking about you."
+      },
+      {
+        "id": "S01E05-W15",
+        "type": "word",
+        "text": "fluffy",
+        "meaning": "蓬松的，毛茸茸的",
+        "original": "They're attracted to the dryer sheets, and they're goin' in fine, but they're comin' out all fluffy.",
+        "scene": "罗斯编造借口说公寓洗衣房的老鼠被烘干机纸吸引，出来变得毛茸茸。",
+        "example": "The kitten was small, white, and fluffy."
+      },
+      {
+        "id": "S01E05-W16",
+        "type": "word",
+        "text": "sophisticated",
+        "meaning": "成熟的，有品位的",
+        "original": "Bob is great. He's smart, he's sophisticated, and he has a real job.",
+        "scene": "安吉拉夸新男友鲍勃聪明成熟又有正经工作。",
+        "example": "She prefers sophisticated novels to simple love stories."
+      },
+      {
+        "id": "S01E05-W17",
+        "type": "word",
+        "text": "audition",
+        "meaning": "试镜，试演",
+        "original": "You go on three auditions a month and you call yourself an actor?",
+        "scene": "安吉拉讽刺乔伊一个月只试镜三次还自称演员。",
+        "example": "He has an audition for a movie role next week."
+      },
+      {
+        "id": "S01E05-W18",
+        "type": "word",
+        "text": "belch",
+        "meaning": "打嗝",
+        "original": "Not after your cousin who could belch the alphabet.",
+        "scene": "莫妮卡拒绝乔伊安排的相亲，说上次他表哥会打嗝念字母。",
+        "example": "He drank too much soda and started to belch."
+      },
+      {
+        "id": "S01E05-W19",
+        "type": "word",
+        "text": "snowflake",
+        "meaning": "雪花",
+        "original": "Angela's different. She's like one of a kind, like a snowflake.",
+        "scene": "乔伊形容前女友安吉拉像雪花一样独一无二。",
+        "example": "Every snowflake has a unique shape."
+      },
+      {
+        "id": "S01E05-W20",
+        "type": "word",
+        "text": "minimal",
+        "meaning": "最小的，最少的",
+        "original": "It's laundry. The thinking through is pretty minimal.",
+        "scene": "罗斯轻描淡写地说去洗衣店不用想太多。",
+        "example": "The damage to the car was minimal."
+      },
+      {
+        "id": "S01E05-W21",
+        "type": "word",
+        "text": "underwear",
+        "meaning": "内衣",
+        "original": "Well, you may wanna rethink the dirty underwear.",
+        "scene": "钱德勒提醒罗斯，瑞秋可能会看到他的脏内衣。",
+        "example": "Make sure you pack enough clean underwear for the trip."
+      },
+      {
+        "id": "S01E05-W22",
+        "type": "word",
+        "text": "fabric softener",
+        "meaning": "衣物柔顺剂",
+        "original": "Oh, and uh, the fabric softener?",
+        "scene": "钱德勒建议罗斯换种柔顺剂，不要再用Snuggles。",
+        "example": "I always add fabric softener to make my clothes smell fresh."
+      },
+      {
+        "id": "S01E05-W23",
+        "type": "word",
+        "text": "sensitive",
+        "meaning": "敏感的，体贴的",
+        "original": "What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear.",
+        "scene": "罗斯解释自己的Snuggles柔顺剂代表他敏感温暖。",
+        "example": "He's very sensitive to other people's feelings."
+      },
+      {
+        "id": "S01E05-W24",
+        "type": "word",
+        "text": "brutal",
+        "meaning": "残忍的，绝情的",
+        "original": "Oh yeah, that hug looked pretty brutal.",
+        "scene": "钱德勒和珍妮斯分手后，朋友们讽刺说那个拥抱看起来很绝情。",
+        "example": "The winter wind was brutal this morning."
+      },
+      {
+        "id": "S01E05-W25",
+        "type": "word",
+        "text": "suds",
+        "meaning": "肥皂泡沫",
+        "original": "No suds, no save.",
+        "scene": "洗衣店里一个女人抢了瑞秋的洗衣机，说没有泡沫就不算占位。",
+        "example": "The dishwater was full of suds."
+      },
+      {
+        "id": "S01E05-W26",
+        "type": "word",
+        "text": "detergent",
+        "meaning": "洗涤剂，洗衣粉",
+        "original": "Oh, hey, uh you must need detergent.",
+        "scene": "罗斯借给瑞秋自己带的德国洗衣粉。",
+        "example": "I need to buy laundry detergent this weekend."
+      },
+      {
+        "id": "S01E05-W27",
+        "type": "word",
+        "text": "spaz",
+        "meaning": "笨手笨脚的人，怪人",
+        "original": "Oh God. Oh, am I being like a total laundry spaz?",
+        "scene": "瑞秋第一次洗衣服，自嘲是不是像个洗衣白痴。",
+        "example": "I felt like a total spaz trying to dance at the party."
+      },
+      {
+        "id": "S01E05-W28",
+        "type": "word",
+        "text": "delicate",
+        "meaning": "精细的，易损坏的",
+        "original": "A third for your delicates, and that would be your bras and your under-panty things.",
+        "scene": "罗斯教瑞秋把贴身精细衣物分开洗。",
+        "example": "This blouse is made of delicate silk."
+      },
+      {
+        "id": "S01E05-W29",
+        "type": "word",
+        "text": "marshmallow",
+        "meaning": "棉花糖",
+        "original": "Oh God, I'm gonna look like a big marshmallow peep.",
+        "scene": "瑞秋把白衣服洗成粉红色，觉得自己像棉花糖。",
+        "example": "We roasted marshmallows over the campfire."
+      },
+      {
+        "id": "S01E05-W30",
+        "type": "word",
+        "text": "grieve",
+        "meaning": "悲伤，哀悼",
+        "original": "He needed some time to grieve.",
+        "scene": "钱德勒终于和珍妮斯分手后，需要时间疗伤。",
+        "example": "She took a week off work to grieve for her grandmother."
+      }
+    ],
+    "expressions": [
+      {
+        "id": "S01E05-E01",
+        "type": "expression",
+        "text": "It's not that big a deal.",
+        "meaning": "没什么大不了的。",
+        "original": "Would you let it go? It's not that big a deal.",
+        "scene": "罗斯为一件小事纠结，瑞秋让他别太在意。",
+        "example": "I know you're upset, but it's not that big a deal."
+      },
+      {
+        "id": "S01E05-E02",
+        "type": "expression",
+        "text": "blow my mind",
+        "meaning": "让我震惊，让我难以置信",
+        "original": "You know what blows my mind? Women can see breasts any time they want.",
+        "scene": "钱德勒感叹女人随时能看到自己的胸，这让他难以置信。",
+        "example": "The view from the top of the mountain blew my mind."
+      },
+      {
+        "id": "S01E05-E03",
+        "type": "expression",
+        "text": "beyond me",
+        "meaning": "我无法理解",
+        "original": "How you get any work done is beyond me.",
+        "scene": "钱德勒说女人随时能看到胸，真不懂她们怎么还能工作。",
+        "example": "Why he quit his great job is beyond me."
+      },
+      {
+        "id": "S01E05-E04",
+        "type": "expression",
+        "text": "get up the courage",
+        "meaning": "鼓起勇气",
+        "original": "You finally get up the courage to do it, and there's the horrible awkward moment.",
+        "scene": "钱德勒形容分手前要鼓起勇气面对尴尬。",
+        "example": "I finally got up the courage to ask her out."
+      },
+      {
+        "id": "S01E05-E05",
+        "type": "expression",
+        "text": "Be a man.",
+        "meaning": "像个男人一样，勇敢点。",
+        "original": "Be a man, just stop calling.",
+        "scene": "罗斯建议钱德勒像个男人一样，直接不再打电话来分手。",
+        "example": "Be a man and tell her the truth instead of hiding."
+      },
+      {
+        "id": "S01E05-E06",
+        "type": "expression",
+        "text": "for all we know",
+        "meaning": "据我们所知，说不定",
+        "original": "Joey, for all we know this guy could be horribly attractive.",
+        "scene": "莫妮卡提醒乔伊，鲍勃说不定其实非常迷人。",
+        "example": "For all we know, he might already be married."
+      },
+      {
+        "id": "S01E05-E07",
+        "type": "expression",
+        "text": "pulling off a Band-aid",
+        "meaning": "快刀斩乱麻，快速解决痛苦的事",
+        "original": "It's just like pulling off a Band-aid. Just do it really fast, and then the wound is exposed.",
+        "scene": "莫妮卡比喻分手就像快速撕掉绷带，越快越好。",
+        "example": "Ending the relationship was hard, but I pulled it off like a Band-aid."
+      },
+      {
+        "id": "S01E05-E08",
+        "type": "expression",
+        "text": "wait your turn",
+        "meaning": "排队等候",
+        "original": "Well, you'll have to wait your turn.",
+        "scene": "急诊室里护士让罗斯排队等候。",
+        "example": "Don't push—everyone has to wait their turn."
+      },
+      {
+        "id": "S01E05-E09",
+        "type": "expression",
+        "text": "Get out of my way.",
+        "meaning": "让开，别挡路。",
+        "original": "Now come on, get outta my way.",
+        "scene": "洗衣店里抢推车的女人对瑞秋大喊让开。",
+        "example": "Get out of my way or I'll be late for the meeting."
+      },
+      {
+        "id": "S01E05-E10",
+        "type": "expression",
+        "text": "That oughta do it.",
+        "meaning": "那样应该就够了。",
+        "original": "I'm free! I'm free! That oughta do it.",
+        "scene": "钱德勒分手后大喊自由，乔伊说这样他应该没事了。",
+        "example": "Just add a little salt and that oughta do it."
+      }
+    ]
+  },
+  "S01E06": {
+    "title": "The One with the Butt",
+    "zh_title": "臀部替身",
+    "words": [
+      {
+        "id": "S01E06-W01",
+        "type": "word",
+        "text": "impending",
+        "meaning": "即将发生的，迫在眉睫的",
+        "original": "Notice, no fear, no sense of impending doom...",
+        "scene": "乔伊提醒大家，没看过他演戏的人通常不会有末日将至的恐惧感。",
+        "example": "The dark clouds gave a sense of impending rain."
+      },
+      {
+        "id": "S01E06-W02",
+        "type": "word",
+        "text": "exclamation",
+        "meaning": "感叹，惊叹号",
+        "original": "The exclamation point in the title scares me.",
+        "scene": "罗斯说戏剧标题里的感叹号让他害怕。",
+        "example": "She added an exclamation point to show her excitement."
+      },
+      {
+        "id": "S01E06-W03",
+        "type": "word",
+        "text": "violate",
+        "meaning": "侵犯，亵渎",
+        "original": "God. I feel violated.",
+        "scene": "看完乔伊演的奇怪音乐剧后，罗斯觉得自己被冒犯了。",
+        "example": "I felt violated when someone read my private messages."
+      },
+      {
+        "id": "S01E06-W04",
+        "type": "word",
+        "text": "peel",
+        "meaning": "剥皮，剥落",
+        "original": "Did anybody else feel they just wanted to peel the skin off their body?",
+        "scene": "罗斯形容看乔伊演戏时尴尬到想剥掉自己的皮。",
+        "example": "Peel the banana before you eat it."
+      },
+      {
+        "id": "S01E06-W05",
+        "type": "word",
+        "text": "league",
+        "meaning": "级别，等级",
+        "original": "Could she be more out of my league?",
+        "scene": "钱德勒看到剧院里的美女，觉得自己高攀不起。",
+        "example": "She's way out of my league—I doubt she'd go out with me."
+      },
+      {
+        "id": "S01E06-W06",
+        "type": "word",
+        "text": "back me up",
+        "meaning": "支持我，帮我作证",
+        "original": "Ross, back me up here. He could never get a woman like that in a million years.",
+        "scene": "钱德勒想让罗斯帮腔，证明自己配不上那位美女。",
+        "example": "Can you back me up when I tell Mom what happened?"
+      },
+      {
+        "id": "S01E06-W07",
+        "type": "word",
+        "text": "aware",
+        "meaning": "意识到的，察觉的",
+        "original": "I'm very very aware of my tongue...",
+        "scene": "钱德勒紧张地准备上前搭讪，突然非常在意自己的舌头。",
+        "example": "Are you aware that you've been talking for an hour?"
+      },
+      {
+        "id": "S01E06-W08",
+        "type": "word",
+        "text": "shrapnel",
+        "meaning": "弹片",
+        "original": "Stand back, everyone. Incoming ego shrapnel.",
+        "scene": "钱德勒去搭讪美女，罗斯让大家退后，说自尊碎片要来了。",
+        "example": "The explosion left shrapnel embedded in the wall."
+      },
+      {
+        "id": "S01E06-W09",
+        "type": "word",
+        "text": "lead",
+        "meaning": "主角，主演",
+        "original": "C'mon, you guys, it wasn't that bad. I was the lead.",
+        "scene": "乔伊为自己辩护，说自己在戏里是主角。",
+        "example": "He plays the lead in the new movie."
+      },
+      {
+        "id": "S01E06-W10",
+        "type": "word",
+        "text": "troll",
+        "meaning": "轮唱曲；巨魔",
+        "original": "It was better than that thing I did with the trolls, at least you got to see my head.",
+        "scene": "乔伊比较自己以前演巨魔只露出头的经历。",
+        "example": "The children's book was full of trolls living under bridges."
+      },
+      {
+        "id": "S01E06-W11",
+        "type": "word",
+        "text": "pronounce",
+        "meaning": "发音",
+        "original": "She pronounces my name 'Chand-lrr'. 'Chand-lrr'.",
+        "scene": "钱德勒说奥萝拉把他的名字念成“钱德勒尔”。",
+        "example": "Can you pronounce this French word for me?"
+      },
+      {
+        "id": "S01E06-W12",
+        "type": "word",
+        "text": "usher",
+        "meaning": "引座员，招待员",
+        "original": "Oh, listen, the usher gave me this to give to you.",
+        "scene": "剧院引座员给了乔伊一张经纪公司的名片。",
+        "example": "The usher showed us to our seats."
+      },
+      {
+        "id": "S01E06-W13",
+        "type": "word",
+        "text": "agency",
+        "meaning": "经纪公司，代理机构",
+        "original": "The Estelle Leonard Talent Agency. Wow, an agency left me its card!",
+        "scene": "乔伊发现一家经纪公司给他留了名片，非常兴奋。",
+        "example": "She signed with a modeling agency last month."
+      },
+      {
+        "id": "S01E06-W14",
+        "type": "word",
+        "text": "fantastically",
+        "meaning": "极其地，难以置信地",
+        "original": "You weren't expecting someone so fantastically beautiful.",
+        "scene": "乔伊见到经纪人埃斯特尔时，她自恋地夸自己美丽。",
+        "example": "The party was fantastically fun."
+      },
+      {
+        "id": "S01E06-W15",
+        "type": "word",
+        "text": "make out",
+        "meaning": "亲热，接吻",
+        "original": "No, I wanna go to the top of the Empire State Building and make out.",
+        "scene": "经纪人埃斯特尔用《西雅图夜未眠》的梗开玩笑说要和乔伊亲热。",
+        "example": "They were making out in the back seat of the car."
+      },
+      {
+        "id": "S01E06-W16",
+        "type": "word",
+        "text": "unbelievable",
+        "meaning": "难以置信的",
+        "original": "It was unbelievable. I've never met anyone like her.",
+        "scene": "钱德勒形容和奥萝拉的约会太不可思议了。",
+        "example": "The view from the mountain was unbelievable."
+      },
+      {
+        "id": "S01E06-W17",
+        "type": "word",
+        "text": "widowed",
+        "meaning": "丧偶的，成为寡妇的",
+        "original": "Oh, I'm sorry, then you're widowed? Hopefully?",
+        "scene": "钱德勒得知奥萝拉有丈夫后，希望她不是寡妇。",
+        "example": "She was widowed at a young age."
+      },
+      {
+        "id": "S01E06-W18",
+        "type": "word",
+        "text": "slide",
+        "meaning": "滑动，滑行",
+        "original": "Sliding your foot so far up my pant leg you can count the change in my pocket?",
+        "scene": "奥萝拉调情时把脚滑到钱德勒的裤腿上。",
+        "example": "Be careful not to slide on the icy sidewalk."
+      },
+      {
+        "id": "S01E06-W19",
+        "type": "word",
+        "text": "twisted",
+        "meaning": "扭曲的，变态的",
+        "original": "This is twisted! How could you get involved with a woman like this?",
+        "scene": "朋友们得知奥萝拉同时有丈夫和男友后觉得关系太扭曲。",
+        "example": "That's a twisted way to think about friendship."
+      },
+      {
+        "id": "S01E06-W20",
+        "type": "word",
+        "text": "fantasy",
+        "meaning": "幻想，梦想",
+        "original": "I mean, this is every guy's fantasy!",
+        "scene": "钱德勒认为不用负责又能约会的关系是每个男人的幻想。",
+        "example": "Traveling around the world is his ultimate fantasy."
+      },
+      {
+        "id": "S01E06-W21",
+        "type": "word",
+        "text": "monogamy",
+        "meaning": "一夫一妻制",
+        "original": "Well, y'know, monogamy can be a tricky concept.",
+        "scene": "罗斯试图从人类学角度解释一夫一妻制很复杂。",
+        "example": "Monogamy is the norm in many cultures."
+      },
+      {
+        "id": "S01E06-W22",
+        "type": "word",
+        "text": "vacuum",
+        "meaning": "吸尘器",
+        "original": "I did the windows, I did the floors... I even used all the attachments on the vacuum.",
+        "scene": "莫妮卡大打扫除，用了吸尘器上的所有配件。",
+        "example": "I need to vacuum the living room before guests arrive."
+      },
+      {
+        "id": "S01E06-W23",
+        "type": "word",
+        "text": "bristle",
+        "meaning": "鬃毛，刷毛",
+        "original": "I even used all the attachments on the vacuum, except that little round one with the bristles.",
+        "scene": "莫妮卡说她不知道吸尘器上带鬃毛的圆头配件是干嘛用的。",
+        "example": "The brush has stiff bristles for scrubbing."
+      },
+      {
+        "id": "S01E06-W24",
+        "type": "word",
+        "text": "ottoman",
+        "meaning": "脚凳，软凳",
+        "original": "Oh! I-I see you moved the green ottoman.",
+        "scene": "莫妮卡发现瑞秋挪动了她的绿色脚凳，非常在意。",
+        "example": "He put his feet up on the ottoman."
+      },
+      {
+        "id": "S01E06-W25",
+        "type": "word",
+        "text": "organized",
+        "meaning": "有条理的，有组织的",
+        "original": "Okay, so I'm responsible, I'm organised. But hey, I can be a kook.",
+        "scene": "莫妮卡承认自己有责任感、有条理，但也想证明自己能随性。",
+        "example": "She's very organized and always finishes her work on time."
+      },
+      {
+        "id": "S01E06-W26",
+        "type": "word",
+        "text": "kook",
+        "meaning": "怪人，疯子",
+        "original": "Okay, so I'm responsible, I'm organised. But hey, I can be a kook.",
+        "scene": "莫妮卡想证明自己不只是整洁有条理，也可以很随性。",
+        "example": "My neighbor is a bit of a kook, but she's harmless."
+      },
+      {
+        "id": "S01E06-W27",
+        "type": "word",
+        "text": "condensation",
+        "meaning": "冷凝，水珠",
+        "original": "Little beads of condensation are inching their way closer and closer to the surface of the wood...",
+        "scene": "朋友们故意描述冷饮杯上的水珠逼近木桌，刺激莫妮卡。",
+        "example": "Condensation formed on the outside of the cold glass."
+      },
+      {
+        "id": "S01E06-W28",
+        "type": "word",
+        "text": "moisturizer",
+        "meaning": "保湿霜，润肤乳",
+        "original": "Here. I need to borrow some moisturizer.",
+        "scene": "乔伊要去演阿尔·帕西诺的屁股替身，来借保湿霜。",
+        "example": "I apply moisturizer every morning to keep my skin soft."
+      },
+      {
+        "id": "S01E06-W29",
+        "type": "word",
+        "text": "clench",
+        "meaning": "紧握，夹紧",
+        "original": "No, that was clenching.",
+        "scene": "导演说乔伊在淋浴戏里屁股夹太紧了。",
+        "example": "He clenched his fists in anger."
+      },
+      {
+        "id": "S01E06-W30",
+        "type": "word",
+        "text": "crappy",
+        "meaning": "糟糕的，蹩脚的",
+        "original": "Y'know, I've done nothing but crappy plays for six years.",
+        "scene": "乔伊因为失去电影机会而沮丧，说自己演了六年烂戏。",
+        "example": "The weather was crappy all weekend."
+      }
+    ],
+    "expressions": [
+      {
+        "id": "S01E06-E01",
+        "type": "expression",
+        "text": "out of my league",
+        "meaning": "高攀不起，配不上",
+        "original": "Could she be more out of my league?",
+        "scene": "钱德勒看到一位绝色美女，觉得自己完全配不上她。",
+        "example": "That job is way out of my league—I don't have enough experience."
+      },
+      {
+        "id": "S01E06-E02",
+        "type": "expression",
+        "text": "back me up",
+        "meaning": "支持我，帮我说话",
+        "original": "Ross, back me up here.",
+        "scene": "钱德勒想让罗斯帮他证明他追不上那位美女。",
+        "example": "Back me up here—wasn't he the one who was late?"
+      },
+      {
+        "id": "S01E06-E03",
+        "type": "expression",
+        "text": "Here goes.",
+        "meaning": "我上了，我要开始了。",
+        "original": "Here goes. Yes? Hi... um... okay, next word would be Chandler!",
+        "scene": "钱德勒鼓起勇气上前和奥萝拉搭讪。",
+        "example": "I've never sung in public before, but here goes."
+      },
+      {
+        "id": "S01E06-E04",
+        "type": "expression",
+        "text": "take a load off",
+        "meaning": "坐下休息，放松",
+        "original": "Take a load off already, darling. Sit already.",
+        "scene": "经纪人埃斯特尔让乔伊坐下来谈。",
+        "example": "You look tired—come in and take a load off."
+      },
+      {
+        "id": "S01E06-E05",
+        "type": "expression",
+        "text": "for the hell of it",
+        "meaning": "为了好玩，无缘无故",
+        "original": "Once I got on the subway, right, and it was at night, and I rode it all the way to Brooklyn, just for the hell of it.",
+        "scene": "钱德勒对奥萝拉讲自己无聊时坐地铁去布鲁克林的故事。",
+        "example": "We drove to the beach at midnight just for the hell of it."
+      },
+      {
+        "id": "S01E06-E06",
+        "type": "expression",
+        "text": "more or less",
+        "meaning": "或多或少，差不多",
+        "original": "It was this perfect evening... more or less.",
+        "scene": "钱德勒形容和奥萝拉的约会大致上很完美。",
+        "example": "I've more or less finished the report."
+      },
+      {
+        "id": "S01E06-E07",
+        "type": "expression",
+        "text": "Good for you.",
+        "meaning": "干得好，真为你高兴。",
+        "original": "I couldn't do it. Good for you, Joey.",
+        "scene": "乔伊说无法接受和已婚女人约会，莫妮卡夸他做得好。",
+        "example": "You got the promotion? Good for you!"
+      },
+      {
+        "id": "S01E06-E08",
+        "type": "expression",
+        "text": "put forth",
+        "meaning": "提出（理论、观点）",
+        "original": "There's a theory, put forth by Richard Leakey...",
+        "scene": "罗斯想引用理查德·里奇的理论来解释一夫一妻制。",
+        "example": "He put forth a new plan at the meeting."
+      },
+      {
+        "id": "S01E06-E09",
+        "type": "expression",
+        "text": "crack your way into",
+        "meaning": "挤进，打入（某个行业）",
+        "original": "After all your years of struggling, you've finally been able to crack your way into showbusiness.",
+        "scene": "钱德勒讽刺乔伊经过多年努力终于“打入”演艺圈。",
+        "example": "It took years to crack his way into the fashion industry."
+      },
+      {
+        "id": "S01E06-E10",
+        "type": "expression",
+        "text": "Look at it this way.",
+        "meaning": "这么想吧，换个角度看。",
+        "original": "Look at it this way: you dumped her.",
+        "scene": "罗斯安慰钱德勒，让他换个角度想，其实是他甩了奥萝拉。",
+        "example": "Look at it this way—you learned something valuable from the experience."
+      }
+    ]
+  },
+  "S01E07": {
+    "title": "The One with the Blackout",
+    "zh_title": "全城大停电",
+    "words": [
+      {
+        "id": "S01E07-W01",
+        "type": "word",
+        "text": "blackout",
+        "meaning": "停电，灯火管制",
+        "original": "The entire city is blacked out!",
+        "scene": "全城突然大停电，大家在莫妮卡家惊讶地发现整个城市一片漆黑。",
+        "example": "The storm caused a blackout that lasted six hours."
+      },
+      {
+        "id": "S01E07-W02",
+        "type": "word",
+        "text": "eligible",
+        "meaning": "符合条件的，合适的",
+        "original": "Who am I gonna meet in a blackout? Power company guys? Eligible looters?",
+        "scene": "钱德勒被困在ATM厅，抱怨停电时遇不到合适的单身汉。",
+        "example": "Are you eligible for the employee discount?"
+      },
+      {
+        "id": "S01E07-W03",
+        "type": "word",
+        "text": "looter",
+        "meaning": "抢劫者，趁火打劫者",
+        "original": "Who am I gonna meet in a blackout? Power company guys? Eligible looters?",
+        "scene": "钱德勒被困时自嘲说只能遇到趁火打劫的人。",
+        "example": "Looters broke into stores during the riot."
+      },
+      {
+        "id": "S01E07-W04",
+        "type": "word",
+        "text": "vestibule",
+        "meaning": "门厅，前厅",
+        "original": "I am trapped in an ATM vestibule with Jill Goodacre!",
+        "scene": "钱德勒激动地发现自己和名模吉尔·古达克被困在ATM前厅。",
+        "example": "The vestibule of the building had marble floors."
+      },
+      {
+        "id": "S01E07-W05",
+        "type": "word",
+        "text": "atrium",
+        "meaning": "中庭，天井",
+        "original": "Is it a vestibule? Maybe it's an atrium.",
+        "scene": "钱德勒纠结自己和吉尔被困的地方到底叫前厅还是中庭。",
+        "example": "The hotel lobby had a beautiful indoor atrium."
+      },
+      {
+        "id": "S01E07-W06",
+        "type": "word",
+        "text": "idiot",
+        "meaning": "白痴，笨蛋",
+        "original": "Oh yeah, that is the part to focus on, you idiot!",
+        "scene": "钱德勒内心责骂自己，居然在纠结是vestibule还是atrium。",
+        "example": "I felt like an idiot when I realized I was wrong."
+      },
+      {
+        "id": "S01E07-W07",
+        "type": "word",
+        "text": "officiate",
+        "meaning": "主持（仪式）",
+        "original": "And officiating at tonight's blackout, is Rabbi Tribbiani.",
+        "scene": "乔伊戴上犹太小帽，假装拉比主持停电夜。",
+        "example": "The mayor will officiate at the opening ceremony."
+      },
+      {
+        "id": "S01E07-W08",
+        "type": "word",
+        "text": "Jewish",
+        "meaning": "犹太人的",
+        "original": "Well, Chandler's old roommate was Jewish, and these are the only candles we have.",
+        "scene": "乔伊解释为什么点犹太教的光明节蜡烛。",
+        "example": "She celebrates Jewish holidays with her family."
+      },
+      {
+        "id": "S01E07-W09",
+        "type": "word",
+        "text": "candle",
+        "meaning": "蜡烛",
+        "original": "Ugly Naked Guy lit a bunch of candles.",
+        "scene": "大家看到对面丑陋裸男点了很多蜡烛。",
+        "example": "We lit candles during the blackout."
+      },
+      {
+        "id": "S01E07-W10",
+        "type": "word",
+        "text": "scare",
+        "meaning": "惊吓，吓唬",
+        "original": "The blackout's scaring him.",
+        "scene": "瑞秋和妈妈说大停电把家里的狗德克斯特吓坏了。",
+        "example": "Don't shout, you'll scare the baby."
+      },
+      {
+        "id": "S01E07-W11",
+        "type": "word",
+        "text": "peacock",
+        "meaning": "孔雀",
+        "original": "I was the last one to know when Chandler got bitten by the peacock at the zoo.",
+        "scene": "瑞秋举例说自己总是最后知道事情，比如钱德勒被孔雀咬。",
+        "example": "The peacock spread its colorful tail feathers."
+      },
+      {
+        "id": "S01E07-W12",
+        "type": "word",
+        "text": "crush",
+        "meaning": "暗恋，迷恋",
+        "original": "I was the last one to know when you had a crush on Joey when he was moving in.",
+        "scene": "瑞秋揭发莫妮卡曾经暗恋刚搬来的乔伊。",
+        "example": "She had a crush on her classmate all through high school."
+      },
+      {
+        "id": "S01E07-W13",
+        "type": "word",
+        "text": "spooky",
+        "meaning": "阴森的，令人毛骨悚然的",
+        "original": "Kinda spooky without any lights.",
+        "scene": "蜡烛燃尽后屋里一片漆黑，菲比说有点恐怖。",
+        "example": "The old abandoned house looked really spooky."
+      },
+      {
+        "id": "S01E07-W14",
+        "type": "word",
+        "text": "definitive",
+        "meaning": "决定性的，最权威的",
+        "original": "OK, guys, guys? I have the definitive one.",
+        "scene": "大家在模仿恐龙声音，有人说自己的最逼真。",
+        "example": "This is the definitive guide to Italian cooking."
+      },
+      {
+        "id": "S01E07-W15",
+        "type": "word",
+        "text": "miniature",
+        "meaning": "小型的，微型的",
+        "original": "Barry wouldn't even kiss me on a miniature golf course.",
+        "scene": "瑞秋抱怨前男友巴瑞连在迷你高尔夫球场上都不肯亲她。",
+        "example": "The museum has a miniature model of the city."
+      },
+      {
+        "id": "S01E07-W16",
+        "type": "word",
+        "text": "overrated",
+        "meaning": "被高估的",
+        "original": "Passion is way overrated.",
+        "scene": "罗斯劝瑞秋说激情被高估了，信赖和安全更重要。",
+        "example": "In my opinion, that restaurant is overrated."
+      },
+      {
+        "id": "S01E07-W17",
+        "type": "word",
+        "text": "ex-wife",
+        "meaning": "前妻",
+        "original": "Well, in the case of my ex-wife, lesbianism.",
+        "scene": "罗斯开玩笑说自己的前妻让他得到了“女同性恋主义”。",
+        "example": "He remains friends with his ex-wife."
+      },
+      {
+        "id": "S01E07-W18",
+        "type": "word",
+        "text": "lesbianism",
+        "meaning": "女同性恋主义",
+        "original": "Well, in the case of my ex-wife, lesbianism.",
+        "scene": "罗斯用前妻卡罗尔的例子调侃激情消退后剩下的是什么。",
+        "example": "The novel explores themes of identity and lesbianism."
+      },
+      {
+        "id": "S01E07-W19",
+        "type": "word",
+        "text": "groundwork",
+        "meaning": "基础，准备工作",
+        "original": "I'm laying the groundwork.",
+        "scene": "罗斯说自己正在慢慢为追求瑞秋打基础。",
+        "example": "We need to lay the groundwork before starting the project."
+      },
+      {
+        "id": "S01E07-W20",
+        "type": "word",
+        "text": "priesthood",
+        "meaning": "神父职，神职",
+        "original": "Every day I get just a little bit closer to... Priesthood!",
+        "scene": "乔伊嘲笑罗斯再不行动就要成神父了。",
+        "example": "He decided to enter the priesthood after college."
+      },
+      {
+        "id": "S01E07-W21",
+        "type": "word",
+        "text": "tousle",
+        "meaning": "弄乱（头发）",
+        "original": "This is running fingers through your hair. Now this is a tousle.",
+        "scene": "乔伊教罗斯区分“捋头发”和“弄乱头发”的亲昵程度。",
+        "example": "She tousled his hair affectionately."
+      },
+      {
+        "id": "S01E07-W22",
+        "type": "word",
+        "text": "moonlight",
+        "meaning": "月光",
+        "original": "The wine? The candles? The moonlight?",
+        "scene": "乔伊提醒罗斯现在气氛正好，有酒、蜡烛和月光。",
+        "example": "We walked along the beach in the moonlight."
+      },
+      {
+        "id": "S01E07-W23",
+        "type": "word",
+        "text": "sugarless",
+        "meaning": "无糖的",
+        "original": "Um, is it sugarless? Sorry, it's not. Oh, then no thanks.",
+        "scene": "吉尔请钱德勒吃口香糖，钱德勒先问是否无糖。",
+        "example": "I prefer sugarless gum because it's better for my teeth."
+      },
+      {
+        "id": "S01E07-W24",
+        "type": "word",
+        "text": "perfection",
+        "meaning": "完美，极致",
+        "original": "Gum would be perfection.",
+        "scene": "钱德勒紧张地改口说口香糖简直是完美选择。",
+        "example": "The dessert was absolute perfection."
+      },
+      {
+        "id": "S01E07-W25",
+        "type": "word",
+        "text": "loathe",
+        "meaning": "厌恶，憎恨",
+        "original": "I loathe myself.",
+        "scene": "钱德勒说完“口香糖是完美选择”后痛恨自己。",
+        "example": "I loathe waking up early on cold mornings."
+      },
+      {
+        "id": "S01E07-W26",
+        "type": "word",
+        "text": "trample",
+        "meaning": "踩踏，蹂躏",
+        "original": "During a blackout? He'd get trampled!",
+        "scene": "菲比担心停电时把猫放在走廊会被踩到。",
+        "example": "The crowd almost trampled the small dog."
+      },
+      {
+        "id": "S01E07-W27",
+        "type": "word",
+        "text": "racecar",
+        "meaning": "赛车",
+        "original": "Mon, wanna go for a ride in my racecar?",
+        "scene": "乔伊开玩笑邀请莫妮卡坐他的赛车，还炫耀自己的胳膊。",
+        "example": "The racecar sped around the track."
+      },
+      {
+        "id": "S01E07-W28",
+        "type": "word",
+        "text": "bubble",
+        "meaning": "泡泡，气泡",
+        "original": "What next? Blow a bubble. A bubble's good. It's got a boyish charm.",
+        "scene": "钱德勒想通过吹泡泡展现大男孩魅力。",
+        "example": "The kids love to blow soap bubbles in the park."
+      },
+      {
+        "id": "S01E07-W29",
+        "type": "word",
+        "text": "choke",
+        "meaning": "噎住，窒息",
+        "original": "Oh my God! And now you're choking.",
+        "scene": "钱德勒吹泡泡失败，把吉尔给的口香糖吞下去噎到了。",
+        "example": "He started to choke on a piece of bread."
+      },
+      {
+        "id": "S01E07-W30",
+        "type": "word",
+        "text": "superficial",
+        "meaning": "肤浅的，表面的",
+        "original": "I know it's totally superficial and we have absolutely nothing in common.",
+        "scene": "瑞秋承认自己喜欢保罗只是表面上的吸引，两人连语言都不通。",
+        "example": "Their friendship was based on superficial similarities."
+      }
+    ],
+    "expressions": [
+      {
+        "id": "S01E07-E01",
+        "type": "expression",
+        "text": "black out",
+        "meaning": "停电；昏倒",
+        "original": "The entire city is blacked out!",
+        "scene": "全城突然大停电，大家在公寓里望向窗外。",
+        "example": "The neighborhood blacked out during the thunderstorm."
+      },
+      {
+        "id": "S01E07-E02",
+        "type": "expression",
+        "text": "trapped in",
+        "meaning": "被困在……里",
+        "original": "I'm trapped in an ATM vestibule with Jill Goodacre!",
+        "scene": "钱德勒兴奋又紧张地告诉朋友他和名模被困在ATM厅。",
+        "example": "We were trapped in the elevator for twenty minutes."
+      },
+      {
+        "id": "S01E07-E03",
+        "type": "expression",
+        "text": "go with",
+        "meaning": "选择，采用",
+        "original": "Jill says vestibule... I'm going with vestibule.",
+        "scene": "吉尔说那个地方叫vestibule，钱德勒决定就用这个词。",
+        "example": "I'll go with the blue shirt—it matches your eyes."
+      },
+      {
+        "id": "S01E07-E04",
+        "type": "expression",
+        "text": "act surprised",
+        "meaning": "装作惊讶",
+        "original": "You'd better act surprised.",
+        "scene": "乔伊泄露了罗斯要给莫妮卡办惊喜派对，让莫妮卡假装惊讶。",
+        "example": "I already know about the gift, but I'll act surprised."
+      },
+      {
+        "id": "S01E07-E05",
+        "type": "expression",
+        "text": "the last one to know",
+        "meaning": "最后一个知道的人",
+        "original": "I'm always the last one to know everything.",
+        "scene": "菲比抱怨自己总是最后一个知道朋友们的秘密。",
+        "example": "I was the last one to know about their engagement."
+      },
+      {
+        "id": "S01E07-E06",
+        "type": "expression",
+        "text": "have a crush on",
+        "meaning": "暗恋某人",
+        "original": "I was the last one to know when you had a crush on Joey when he was moving in.",
+        "scene": "瑞秋说出莫妮卡曾经暗恋乔伊的秘密。",
+        "example": "She had a crush on him since freshman year."
+      },
+      {
+        "id": "S01E07-E07",
+        "type": "expression",
+        "text": "the friend zone",
+        "meaning": "朋友区（只能做朋友，无法发展成恋人）",
+        "original": "Because you waited too long to make your move, and now you're in the friend zone.",
+        "scene": "乔伊告诉罗斯，因为他迟迟没有行动，已经被瑞秋当成朋友了。",
+        "example": "He's been in the friend zone for years and can't escape."
+      },
+      {
+        "id": "S01E07-E08",
+        "type": "expression",
+        "text": "make a move",
+        "meaning": "采取行动（追求某人）",
+        "original": "Because you waited too long to make your move, and now you're in the friend zone.",
+        "scene": "乔伊批评罗斯没有主动追求瑞秋。",
+        "example": "If you like her, you should make a move before someone else does."
+      },
+      {
+        "id": "S01E07-E09",
+        "type": "expression",
+        "text": "mess up",
+        "meaning": "搞砸，弄糟",
+        "original": "What's messing you up? The wine? The candles? The moonlight?",
+        "scene": "乔伊问罗斯在这么好的气氛下还在犹豫什么。",
+        "example": "Don't mess up this opportunity—it's important."
+      },
+      {
+        "id": "S01E07-E10",
+        "type": "expression",
+        "text": "mental note",
+        "meaning": "心里记下，暗自提醒自己",
+        "original": "Mental note: If Jill Goodacre offers you gum, you take it.",
+        "scene": "钱德勒后悔拒绝了吉尔的口香糖，在心里提醒自己下次一定要接受。",
+        "example": "Mental note: never leave the house without an umbrella."
+      }
+    ]
+  }
+}
